@@ -2,7 +2,9 @@
 s/((Cavemen|Point (.*?\b )?Grunt|Pointy|Mous(e|y|ey)) )?GUI/CLI\/TUI\/keyboard driven GUI/g
 s/Proprietary bloat/FLOSS+POSIX+unix_philosophy/g
 s/(binary|BLOB(s)?) formats/plain-text based formats/g
-s/Ctrl\/Shift\/Alt-/C\/S\/A-/g
+s/((Shift-)|(Ctrl-)|(Alt-))*(\w)/${2:+S-}${3:+C-}${4:+A-}\L$5\E/g
+s/Ctrl-Y/Ctrl-Shift-Z/g
+s/Ctrl-Shift-Z/C-S-z/g
 ```
 
 ```sed
@@ -12,7 +14,7 @@ s/cmd/msys2 bash/g
 s/bash/bash with powershell like improvements/g
 s/MS Explorer/doublecmd/g
 s/MS Windows 11 Tiling/dwm-port/g
-s/(w3(.org) )?X?HTML ?1?/whatwg XHTML5/g
+s/(w3(.org) )?(X)?HTML (?(3)1|5)?/whatwg XHTML5/g
 s/MS Windows/??/
 s/Postman/curl\/humao HTTP Rest Client/
 ```
