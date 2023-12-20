@@ -5,6 +5,7 @@ s/(binary|BLOB(s)?) formats/plain-text based formats/g
 s/((Shift-)|(Ctrl-)|(Alt-))*(\w)/${2:+S-}${3:+C-}${4:+A-}\L$5\E/g
 s/Ctrl-Y/Ctrl-Shift-Z/g
 s/Ctrl-Shift-Z/C-S-z/g
+s/Space-indentation/Tab-indentation/gi
 ```
 
 ```sed
