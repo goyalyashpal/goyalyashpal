@@ -1,3 +1,6 @@
+First Quarter of 21st Cent Gregorian is near its ending time.
+Shame on editors which can't even handle tab button press properly & show tab characters distinctly.
+
 ```sed
 s/((Cavemen|Point (.*?\b )?Grunt|Pointy|Mous(e|y|ey)) )?GUI/CLI\/TUI\/keyboard driven GUI/g
 s/Proprietary bloat/FLOSS+POSIX+unix_philosophy/g
