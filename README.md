@@ -15,8 +15,9 @@ s/Space-indentation/Tab-indentation/gi
 s/MS (Word|PowerPoint)|LibreOffice (Writer|Impress)/markup-based tools/
 s/MS Access/Sql/g
 s/cmd/msys2 bash/g
-s/bash/bash with powershell like improvements/g
+s/bash/bash with powershell like readline editor improvements/g
 s/MS Explorer/doublecmd/g
+s/MS Notepad/Notepad3\/Geany/g
 s/MS Windows 11 Tiling/dwm-port/g
 s/(w3(.org) )?(X)?HTML (?(3)1|5)?/whatwg XHTML5/g
 s/MS Windows/??/
