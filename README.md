@@ -3,7 +3,7 @@ Shame on editors which can't even handle tab button press properly & show tab ch
 
 ```sed
 s/((Cavemen|Point (.*?\b )?Grunt|Pointy|Mous(e|y|ey)) )?GUI/CLI\/TUI\/keyboard driven GUI/g
-s/Proprietary bloat/FLOSS+POSIX+unix_philosophy/g
+s/Proprietary bloat/FLOSS\+POSIX\+unix_philosophy/g
 s/(binary|BLOB(s)?) formats/plain-text based formats/g
 s/((Shift-)|(Ctrl-)|(Alt-))*(\w)/${2:+S-}${3:+C-}${4:+A-}\L$5\E/g
 s/Ctrl-Y/Ctrl-Shift-Z/g
@@ -26,7 +26,7 @@ s/Postman/curl\/humao HTTP Rest Client/
 
 ```sed
 s/Google Play Store/F-droid/g
-s/Google Photos/tibbi Simple Gallery/g
+s/Google Photos/Fossify Gallery/g
 s/Google Messages/QKSMS/g
 s/Google Keyboard/??/g
 s/Goole Dialer/??/g
