@@ -18,7 +18,7 @@ s/cmd/msys2 bash/g
 s/bash/bash with powershell like readline editor improvements/g
 s/MS Explorer/doublecmd/g
 s/MS Notepad/Notepad3\/Geany/g
-s/MS Windows 11 Tiling/dwm-port/g
+s/MS Windows 11 Tiling/dwm-ports/g
 s/(w3(.org) )?(X)?HTML (?(3)1|5)?/whatwg XHTML5/g
 s/MS Windows/??/
 s/Postman/curl\/humao HTTP Rest Client/
@@ -31,7 +31,7 @@ s/Google Messages/QKSMS/g
 s/Google Keyboard/??/g
 s/Goole Dialer/??/g
 s/Google Contacts/OpenContacts/g
-s/(Google funded )?Mozilla Firefox/LibreWolf/g
+s/(Google funded )?Mozilla Firefox/LibreWolf\/Pale Moon\/Mull/g
 s/Google Android/??/g
 ```
 
