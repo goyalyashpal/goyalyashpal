@@ -36,10 +36,18 @@
 
   <!-- align="center" float:center; -->
 
+<!--
+* The width of the github profile readme is 780px
+* ( 5 * 2 ) * 2 = 10px in margins
+* 372 + 300 = 672px in image
+ -->
+
 <p align="center">
 &nbsp;
-<img alt="goyalyashpal" width=370px
+<img width=300px
+  alt="Profile's Github Contribution Stats"
   style="vertical-align: middle; margin:5px"
+  aria-details="https://github-readme-stats.vercel.app/"
   src="https://github-readme-stats.vercel.app/api?username=goyalyashpal&show_icons=true&locale=en&hide=stars&hide_rank=true&cache_seconds=86400&theme=onedark"
 />
 &nbsp;
@@ -47,10 +55,12 @@
   href="https://git.io/streak-stats"
   aria-details="https://github-readme-streak-stats.herokuapp.com/demo/"
 >
-  <img alt="GitHub Streak"
+  <img width=372px
+    alt="Profile's GitHub Streak Stats"
     style="vertical-align: middle; margin:5px;"
-    src="https://github-readme-streak-stats.herokuapp.com?user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=495px"
+    src="https://github-readme-streak-stats.herokuapp.com?user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=450px"
   />
+  <!-- Default Streak Stats width is 495px -->
 </a>
 </p>
 
