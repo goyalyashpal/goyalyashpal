@@ -6,6 +6,9 @@ Reference links definition:
 Icons:
  -->
 
+[github topics]: https://github.com/topics "Topics on Explore GitHub"
+[explore-topics-repo]: https://github.com/github/explore/blob/main/topics/ " Community-curated topic and collection pages on GitHub"
+
 [shields.io api]: https://shields.io/badges "Logos via SimpleIcons | Shields.io"
 [shields-logos]: https://shields.io/docs/logos "Logos via SimpleIcons | Shields.io"
 [shields-static-badge]: https://shields.io/docs/static-badges "Static Badges | Shields.io"
@@ -39,6 +42,9 @@ Thanks to all the great gratis resources:
 
 
 ### Icons:
+
+* [Github Topics] also contains the logo images.
+  Repo: [github/explore][explore-topics-repo], path: `topics/<TOPIC>/<..TOPIC.EXT..>`
 
 * [Shields.io API] to show [logos][shields-logos] from [Simple Icons][simpleicons] as a [badge][shields-static-badge]
 
@@ -86,7 +92,9 @@ Inspirations:
 
 [rm-md-gen-app]: https://rahuldkjain.github.io/gh-profile-readme-generator "GH Profile Readme Generator | WApp"
 [rm-md-gen]: https://github.com/rahuldkjain/github-profile-readme-generator/ "Github Profile Readme Generator | Repo"
-[sushantnair-gh-rm]: https://github.com/sushantnair/sushantnair/blob/3a2c35912d/README.md?plain=1#L32 "Technology "
+
+[anuraghazra-gh-rm]: https://github.com/anuraghazra/anuraghazra/blob/b7b2dd1b2a/README.md?plain=1#L17 "Language logos from GitHub topics"
+[sushantnair-gh-rm]: https://github.com/sushantnair/sushantnair/blob/3a2c35912d/README.md?plain=1#L32 "Language logos from shields.io badges"
 
 
 * [GitHub Profile Readme Generator][rm-md-gen] by rahul dk jain \
@@ -95,4 +103,6 @@ Inspirations:
 
   App: [GH m↓G][rm-md-gen-app]
 
-* SushantNair's GH [profile readme][sushantnair-gh-rm] for using shield's badges for showcasing languages.
+* Anurag Hazra's GH [profile readme][anuraghazra-gh-rm] for using logos from github explore topics.
+
+* SushantNair's GH [profile readme][sushantnair-gh-rm] for using shield.io's badges for showcasing languages.
