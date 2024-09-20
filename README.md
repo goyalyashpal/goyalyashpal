@@ -110,7 +110,7 @@
 
 <tr>
   <td> Database MS  </td>
-  <td> <i class="devicon-mysql-plain-wordmark colored"></i> <i class="devicon-sqlite-plain colored"></i>  </td>
+  <td> <i class="devicon-mysql-plain-wordmark"></i> <i class="devicon-sqlite-plain colored"></i>  </td>
   <td> mysql, sqlite3  </td>
   <td> MySQL Workbench  </td>
 </tr>
