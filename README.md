@@ -24,24 +24,44 @@
 
 ### General Purpose Programming:
 
-|   | Core ⚙  | Build 🏗  | Deps ⏬🧳  | Test ✔  | Proto 🏃‍♀️‍➡️  | Tools 🛠🧰
-|--  |--  |--  |--  |--  |--  |--
-| Logic  | <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>  | Makefile, Make, <i class="devicon-nixos-plain colored"></i>  |   |   | Cling  |  <i class="devicon-llvm-plain"></i>, LLDB, VSCodium
-| Logic  | <i class="devicon-python-plain colored"></i>  | pyproject.toml, <i class="devicon-nixos-plain colored">  | <i class="devicon-pypi-plain colored"></i>, PDM  | <i class="devicon-pytest-plain-wordmark colored"></i>  | <i class="devicon-jupyter-plain-wordmark colored"></i>  | Ruff, mypy, Pdb+
-| Server-side  | <i class="devicon-python-plain colored"></i> <i class="devicon-flask-plain-wordmark"></i> Suit  | pyproject.toml  | <i class="devicon-pypi-plain colored"></i>, PDM  |   |   | Ruff, mypy
-| Logic (OOP), GUI  | <i class="devicon-java-plain-wordmark colored"></i>, Swing  | pom.xml  | <i class="devicon-maven-plain-wordmark colored"></i>  |   | JShell, Eclipse Preview  | <i class="devicon-eclipse-plain"></i>
-| Server-side  | <i class="devicon-java-plain-wordmark colored"></i> Servlet  | pom.xml  |   |   |   | <i class="devicon-tomcat-line-wordmark colored"></i> <i class="devicon-eclipse-plain"></i>
+<table>
+
+<thead>
+<tr>  <th></th> <th>Core ⚙</th> <th>Build 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th> </tr>
+</thead>
+
+<tbody>
+
+<tr>  <td> Logic  </td> <td> <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>  </td> <td> Makefile, Make, <i class="devicon-nixos-plain colored"></i>  </td> <td>   </td> <td>   </td> <td> Cling  </td> <td>  <i class="devicon-llvm-plain"></i>, LLDB, VSCodium  </td> </tr>
+<tr>  <td> Logic  </td> <td> <i class="devicon-python-plain colored"></i>  </td> <td> pyproject.toml, <i class="devicon-nixos-plain colored">  </td> <td> <i class="devicon-pypi-plain colored"></i>, PDM  </td> <td> <i class="devicon-pytest-plain-wordmark colored"></i>  </td> <td> <i class="devicon-jupyter-plain-wordmark colored"></i>  </td> <td> Ruff, mypy, Pdb+  </td> </tr>
+<tr>  <td> Server-side  </td> <td> <i class="devicon-python-plain colored"></i> <i class="devicon-flask-plain-wordmark"></i> Suit  </td> <td> pyproject.toml  </td> <td> <i class="devicon-pypi-plain colored"></i>, PDM  </td> <td>   </td> <td>   </td> <td> Ruff, mypy  </td> </tr>
+<tr>  <td> Logic (OOP), GUI  </td> <td> <i class="devicon-java-plain-wordmark colored"></i>, Swing  </td> <td> pom.xml  </td> <td> <i class="devicon-maven-plain-wordmark colored"></i>  </td> <td>   </td> <td> JShell, Eclipse Preview  </td> <td> <i class="devicon-eclipse-plain"></i>  </td> </tr>
+<tr>  <td> Server-side  </td> <td> <i class="devicon-java-plain-wordmark colored"></i> Servlet  </td> <td> pom.xml  </td> <td>   </td> <td>   </td> <td>   </td> <td> <i class="devicon-tomcat-line-wordmark colored"></i> <i class="devicon-eclipse-plain"></i>  </td> </tr>
+
+</tbody>
+
+</table>
 
 
 ### Domain Specific Technologies:
 
-|   | Core ⚙  | Proto 🏃‍♀️  | Tools 🛠🧰
-|--  |--  |--  |--
-| Client-side WebApps  | <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i>  | Browsers  | <i class="devicon-firefox-plain-wordmark colored"></i> <i class="devicon-chrome-plain-wordmark colored"></i>, VSCodium
-| Database MS  | <i class="devicon-mysql-plain-wordmark colored"></i> <i class="devicon-sqlite-plain colored"></i>  | mysql, sqlite3  | MySQL Workbench
-| Flat-file DB  | <i class="devicon-json-plain colored"></i> <i class="devicon-xml-plain colored"></i> <i class="devicon-yaml-plain colored"></i>  | jq, nushell  |
-| Markup  | <i class="devicon-latex-plain"></i> <i class="devicon-markdown-plain"></i>, AsciiDoc, Typst  |   | TeXStudio, MiKTeX, Tex Live
-| DevOps  | <i class="devicon-linux-plain"></i> <i class="devicon-nixos-plain colored"></i> <i class="devicon-bash-plain"></i> <i class="devicon-git-plain colored"></i>  |   | Jupyter (Bash), nix eval
+<table>
+
+<thead>
+  <tr>  <th></th> <th>Core ⚙</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th> </tr>
+</thead>
+
+<tbody>
+
+<tr>  <td> Client-side WebApps  </td> <td> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i>  </td> <td> Browsers  </td> <td> <i class="devicon-firefox-plain-wordmark colored"></i> <i class="devicon-chrome-plain-wordmark colored"></i>, VSCodium  </td> </tr>
+<tr>  <td> Database MS  </td> <td> <i class="devicon-mysql-plain-wordmark colored"></i> <i class="devicon-sqlite-plain colored"></i>  </td> <td> mysql, sqlite3  </td> <td> MySQL Workbench  </td> </tr>
+<tr>  <td> Flat-file DB  </td> <td> <i class="devicon-json-plain colored"></i> <i class="devicon-xml-plain colored"></i> <i class="devicon-yaml-plain colored"></i>  </td> <td> jq, nushell  </td> <td>  </td> </tr>
+<tr>  <td> Markup  </td> <td> <i class="devicon-latex-plain"></i> <i class="devicon-markdown-plain"></i>, AsciiDoc, Typst  </td> <td>   </td> <td> TeXStudio, MiKTeX, Tex Live  </td> </tr>
+<tr>  <td> DevOps  </td> <td> <i class="devicon-linux-plain"></i> <i class="devicon-nixos-plain colored"></i> <i class="devicon-bash-plain"></i> <i class="devicon-git-plain colored"></i>  </td> <td>   </td> <td> Jupyter (Bash), nix eval  </td> </tr>
+
+</tbody>
+
+</table>
 
 
 
