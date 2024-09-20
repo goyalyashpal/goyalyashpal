@@ -6,19 +6,20 @@ Reference links definition:
 Icons:
  -->
 
+[shields.io api]: https://shields.io/badges "Logos via SimpleIcons | Shields.io"
+[shields-logos]: https://shields.io/docs/logos "Logos via SimpleIcons | Shields.io"
+[shields-static-badge]: https://shields.io/docs/static-badges "Static Badges | Shields.io"
+[simpleicons]: https://simpleicons.org/ "Simple Icons"
+[simpleicons-repo]: https://github.com/simple-icons/simple-icons/ "Simple Icons | GH Repo"
+
 [vectorlogo]: https://www.vectorlogo.zone/about "Gorgeous SVG logos, perfect for your README or credits page - Vector Logo Zone"
 [devicon]: https://devicon.dev/ "DEVICON | All programming languages and development tools related icons font"
 [devicon-repo]: https://github.com/devicons/devicon/ "Devicon | GH Repo"
-[simpleicons]: https://simpleicons.org/ "Simple Icons"
-[simpleicons-repo]: https://github.com/simple-icons/simple-icons/ "Simple Icons | GH Repo"
 
 
 <!--
 GitHub Profile Stats Related Stuff:
  -->
-
-[rm-md-gen-app]: https://rahuldkjain.github.io/gh-profile-readme-generator "GH Profile Readme Generator | WApp"
-[rm-md-gen]: https://github.com/rahuldkjain/github-profile-readme-generator/ "Github Profile Readme Generator | Repo"
 
 [stat-trophy-app]: https://github-profile-trophy.vercel.app "GH Profile Trophy | WApp"
 [stat-trophy]: https://github.com/ryo-ma/github-profile-trophy/ "Github Stat Trophies | Repo"
@@ -32,28 +33,34 @@ GitHub Profile Stats Related Stuff:
 
 
 
-## Credits
+## Credits for resources:
 
 Thanks to all the great gratis resources:
 
 
 ### Icons:
 
-* [Devicon]
+* [Shields.io API] to show [logos][shields-logos] from [Simple Icons][simpleicons] as a [badge][shields-static-badge]
+
+  Format:
+
+  ```link
+  https://img.shields.io/badge/
+    [[<label>]-][<message>]-<color>?
+      style=for-the-badge
+      logo=<ICON_SLUG>
+      logoColor=<COLOR>
+      [label=<LABEL>]
+  ```
+
 * [VectorLogoZone][vectorlogo]
-* [Simple Icons][simpleicons]
+* [Devicon] for providing logos as fonts, which makes it verrry easy to use & fine tune the placement/alignment. \
+  Though, github readmes don't support the html's linking mechanism in markdown.
 
 All the logo/icons etc are property of their respective owners.
 
 
 ### Github Stats:
-
-* [GitHub Profile Readme Generator][rm-md-gen] by rahul dk jain \
-  This provided an inspiration/reference document for this profile's README, and
-  helped me find other resources all at one place.
-
-  App: [GH MDG][rm-md-gen-app]
-
 
 * [GitHub Stats Trophies][stat-trophy] by ryo-ma \
   A third party trophy categorisation based on the user's github stats
@@ -68,3 +75,24 @@ All the logo/icons etc are property of their respective owners.
   For Card listing the profile's contribution streak
 
   App: [GH Contrib Streak][streak-stats-app]
+
+
+
+## Credits for inspirations:
+
+<!--
+Inspirations:
+ -->
+
+[rm-md-gen-app]: https://rahuldkjain.github.io/gh-profile-readme-generator "GH Profile Readme Generator | WApp"
+[rm-md-gen]: https://github.com/rahuldkjain/github-profile-readme-generator/ "Github Profile Readme Generator | Repo"
+[sushantnair-gh-rm]: https://github.com/sushantnair/sushantnair/blob/3a2c35912d/README.md?plain=1#L32 "Technology "
+
+
+* [GitHub Profile Readme Generator][rm-md-gen] by rahul dk jain \
+  This provided an inspiration/reference document for this profile's README, and
+  helped me find other resources all at one place.
+
+  App: [GH m↓G][rm-md-gen-app]
+
+* SushantNair's GH [profile readme][sushantnair-gh-rm] for using shield's badges for showcasing languages.
