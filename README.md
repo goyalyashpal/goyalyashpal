@@ -2,6 +2,12 @@
 2024-09-18
  -->
 
+<!--
+
+latest commit id: 2f0ab29740 ('24-09-19)
+https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
+
+
 <link rel="stylesheet" type='text/css'
   href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
@@ -10,8 +16,10 @@
   table i { font-size: xxx-large; vertical-align: middle; }
 </style>
 
-<!--
- -->
+
+    <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>
+
+  -->
 
 
 
@@ -101,29 +109,54 @@
 
 <tr>
   <td> Logic  </td>
-  <td> <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>  </td>
-  <td> Makefile, Make, <i class="devicon-nixos-plain colored"></i>  </td>
+  <td>
+    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
+    <a href="https://github.com/topics/c"/><img alt="c" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></a>
+    <a href="https://github.com/topics/cpp"/><img alt="cpp" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></a>
+
+  </td>
+  <td> Makefile, Make,
+    <a href="https://github.com/topics/nix"/><img alt="nix" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png"></a>
+  </td>
   <td>   </td>
   <td>   </td>
   <td> Cling  </td>
-  <td>  <i class="devicon-llvm-plain"></i>, LLDB, VSCodium  </td>
+  <td>
+    <a href="https://github.com/topics/llvm"/><img alt="llvm" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/llvm/llvm.png"></a>, LLDB, VSCodium
+  </td>
 </tr>
 
 <tr>
   <td> Logic  </td>
-  <td> <i class="devicon-python-plain colored"></i>  </td>
-  <td> pyproject.toml, <i class="devicon-nixos-plain colored">  </td>
-  <td> <i class="devicon-pypi-plain colored"></i>, PDM  </td>
-  <td> <i class="devicon-pytest-plain-wordmark colored"></i>  </td>
-  <td> <i class="devicon-jupyter-plain-wordmark colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/python"/><img alt="python" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
+  </td>
+  <td>
+    pyproject.toml,
+    <a href="https://github.com/topics/nix"/><img alt="nix" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png"></a>
+  </td>
+  <td>
+    <a href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png"></a>, PDM
+  </td>
+  <td>
+    <a href="https://github.com/topics/pytest"/><img alt="pytest" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png"></a>
+  </td>
+  <td>
+    <a href="https://github.com/topics/jupyter"/><img alt="jupyter" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"></a>
+  </td>
   <td> Ruff, mypy, Pdb+  </td>
 </tr>
 
 <tr>
   <td> Server-side  </td>
-  <td> <i class="devicon-python-plain colored"></i> <i class="devicon-flask-plain-wordmark"></i> Suit  </td>
+  <td>
+    <a href="https://github.com/topics/python"/><img alt="python" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
+    <a href="https://github.com/topics/flask"/><img alt="flask" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></a> Suit
+  </td>
   <td> pyproject.toml  </td>
-  <td> <i class="devicon-pypi-plain colored"></i>, PDM  </td>
+  <td>
+    <a href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png"></a>, PDM
+  </td>
   <td>   </td>
   <td>   </td>
   <td> Ruff, mypy  </td>
@@ -131,22 +164,33 @@
 
 <tr>
   <td> Logic (OOP), GUI  </td>
-  <td> <i class="devicon-java-plain-wordmark colored"></i>, Swing  </td>
+  <td>
+    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>, Swing
+  </td>
   <td> pom.xml  </td>
-  <td> <i class="devicon-maven-plain-wordmark colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/maven"/><img alt="maven" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png"></a>
+  </td>
   <td>   </td>
   <td> JShell, Eclipse Preview  </td>
-  <td> <i class="devicon-eclipse-plain"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
+  </td>
 </tr>
 
 <tr>
   <td> Server-side  </td>
-  <td> <i class="devicon-java-plain-wordmark colored"></i> Servlet  </td>
+  <td>
+    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a> Servlet
+  </td>
   <td> pom.xml  </td>
   <td>   </td>
   <td>   </td>
   <td>   </td>
-  <td> <i class="devicon-tomcat-line-wordmark colored"></i> <i class="devicon-eclipse-plain"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png"></a>
+    <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
+  </td>
 </tr>
 
 </tbody>
@@ -169,35 +213,57 @@
 
 <tr>
   <td> Client-side WebApps  </td>
-  <td> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-css3-plain-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/html5"/><img alt="html5" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></a>
+    <a href="https://github.com/topics/css3"/><img alt="css3" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></a>
+    <a href="https://github.com/topics/javascript"/><img alt="javascript" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>
+  </td>
   <td> Browsers  </td>
-  <td> <i class="devicon-firefox-plain-wordmark colored"></i> <i class="devicon-chrome-plain-wordmark colored"></i>, VSCodium  </td>
+  <td>
+    <a href="https://github.com/topics/firefox"/><img alt="firefox" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png"></a>
+    <a href="https://github.com/topics/chrome"/><img alt="chrome" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png"></a>, VSCodium
+  </td>
 </tr>
 
 <tr>
   <td> Database MS  </td>
-  <td> <i class="devicon-mysql-plain-wordmark"></i> <i class="devicon-sqlite-plain colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/mysql"/><img alt="mysql" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></a>
+    <a href="https://github.com/topics/sqlite"/><img alt="sqlite" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></a>
+  </td>
   <td> mysql, sqlite3  </td>
   <td> MySQL Workbench  </td>
 </tr>
 
 <tr>
   <td> Flat-file DB  </td>
-  <td> <i class="devicon-json-plain colored"></i> <i class="devicon-xml-plain colored"></i> <i class="devicon-yaml-plain colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/json"/><img alt="json" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png"></a>
+    <a href="https://github.com/topics/xml"/><img alt="xml" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/xml/xml.png"></a>
+    <a href="https://github.com/topics/yaml"/><img alt="yaml" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"></a>
+  </td>
   <td> jq, nushell  </td>
   <td>  </td>
 </tr>
 
 <tr>
   <td> Markup  </td>
-  <td> <i class="devicon-latex-plain"></i> <i class="devicon-markdown-plain"></i>, AsciiDoc, Typst  </td>
+  <td>
+    <a href="https://github.com/topics/latex"/><img alt="latex" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png"></a>
+    <a href="https://github.com/topics/markdown"/><img alt="markdown" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png"></a>, AsciiDoc, Typst
+  </td>
   <td>   </td>
   <td> TeXStudio, MiKTeX, Tex Live  </td>
 </tr>
 
 <tr>
   <td> DevOps  </td>
-  <td> <i class="devicon-linux-plain"></i> <i class="devicon-nixos-plain colored"></i> <i class="devicon-bash-plain"></i> <i class="devicon-git-plain colored"></i>  </td>
+  <td>
+    <a href="https://github.com/topics/linux"/><img alt="linux" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></a>
+    <a href="https://github.com/topics/nix"/><img alt="nix" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png"></a>
+    <a href="https://github.com/topics/bash"/><img alt="bash" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></a>
+    <a href="https://github.com/topics/git"/><img alt="git" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></a>
+  </td>
   <td>   </td>
   <td> Jupyter (Bash), nix eval  </td>
 </tr>
