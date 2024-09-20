@@ -2,6 +2,14 @@
 Reference links definition:
  -->
 
+
+## Credits for resources:
+
+Thanks to all the great gratis resources:
+
+
+### Icons:
+
 <!--
 Icons:
  -->
@@ -20,28 +28,6 @@ Icons:
 [gh:devicon]: https://github.com/devicons/devicon/ "Devicon | GH Repo"
 
 
-<!--
-GitHub Profile Stats Related Stuff:
- -->
-
-[stat-trophy-app]: https://github-profile-trophy.vercel.app "GH Profile Trophy | WApp"
-[gh:stat-trophy]: https://github.com/ryo-ma/github-profile-trophy/ "Github Stat Trophies | Repo"
-
-[_]: https://github-readme-stats.vercel.app/ "GH Readme Stats | HTTP 308 - Permanent Redirect"
-[gh:contrib-stats]: https://github.com/anuraghazra/github-readme-stats/ "GitHub Readme Stats | Repo"
-
-[streak-stats-app]: https://github-readme-streak-stats.herokuapp.com/demo/ "GH Readme Streak Stats Demo | WApp"
-[_]: https://git.io/streak-stats "Contrib Streak Shortlink | HTTP 301 - Moved Permanently"
-[gh:streak-stats]: https://github.com/DenverCoder1/github-readme-streak-stats/ "Contribution Streak | Repo"
-
-
-
-## Credits for resources:
-
-Thanks to all the great gratis resources:
-
-
-### Icons:
 
 * [Github Topics] also contains the logo images.
   Repo: [github/explore][gh:explore topics], path: `topics/<TOPIC>/<..TOPIC.EXT..>`
@@ -60,6 +46,7 @@ Thanks to all the great gratis resources:
   ```
 
 * [VectorLogoZone]
+
 * [Devicon] for providing logos as fonts, which makes it verrry easy to use & fine tune the placement/alignment. \
   Though, github readmes don't support the html's linking mechanism in markdown.
 
@@ -67,6 +54,22 @@ All the logo/icons etc are property of their respective owners.
 
 
 ### Github Stats:
+
+<!--
+GitHub Profile Stats Related Stuff:
+ -->
+
+[stat-trophy-app]: https://github-profile-trophy.vercel.app "GH Profile Trophy | WApp"
+[gh:stat-trophy]: https://github.com/ryo-ma/github-profile-trophy/ "Github Stat Trophies | Repo"
+
+[_]: https://github-readme-stats.vercel.app/ "GH Readme Stats | HTTP 308 - Permanent Redirect"
+[gh:contrib-stats]: https://github.com/anuraghazra/github-readme-stats/ "GitHub Readme Stats | Repo"
+
+[streak-stats-app]: https://github-readme-streak-stats.herokuapp.com/demo/ "GH Readme Streak Stats Demo | WApp"
+[_]: https://git.io/streak-stats "Contrib Streak Shortlink | HTTP 301 - Moved Permanently"
+[gh:streak-stats]: https://github.com/DenverCoder1/github-readme-streak-stats/ "Contribution Streak | Repo"
+
+
 
 * [GitHub Stats Trophies][gh:stat-trophy] by ryo-ma \
   A third party trophy categorisation based on the user's github stats
@@ -95,6 +98,7 @@ Inspirations:
 
 [gh:anuraghazra rm.md]: https://github.com/anuraghazra/anuraghazra/blob/b7b2dd1b2a/README.md?plain=1#L17 "Language logos from GitHub topics"
 [gh:sushantnair rm.md]: https://github.com/sushantnair/sushantnair/blob/3a2c35912d/README.md?plain=1#L32 "Language logos from shields.io badges"
+
 
 
 * [GitHub Profile Readme Generator][gh:rm-md_gen] by rahul dk jain \
