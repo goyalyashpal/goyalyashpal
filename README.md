@@ -95,20 +95,25 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 ## Tech Stacks Used:
 
 
+
+
 ### General Purpose Programming:
+
+* Mainly logic, and CLI applications.
+* Occassionally done GUI: Swing in Java, Streamlit in python.
+
 
 <table>
 
 <thead>
 <tr>
-  <th></th> <th>Core ⚙</th> <th>Build 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+  <th>Core ⚙</th> <th>Build 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
 </tr>
 </thead>
 
 <tbody>
 
 <tr>
-  <td> Logic  </td>
   <td>
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
     <a href="https://github.com/topics/c"/><img alt="c" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></a>
@@ -127,7 +132,6 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 </tr>
 
 <tr>
-  <td> Logic  </td>
   <td>
     <a href="https://github.com/topics/python"/><img alt="python" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
   </td>
@@ -148,47 +152,16 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 </tr>
 
 <tr>
-  <td> Server-side  </td>
   <td>
-    <a href="https://github.com/topics/python"/><img alt="python" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
-    <a href="https://github.com/topics/flask"/><img alt="flask" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></a> Suit
-  </td>
-  <td> pyproject.toml  </td>
-  <td>
-    <a href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png"></a>, PDM
-  </td>
-  <td>   </td>
-  <td>   </td>
-  <td> Ruff, mypy  </td>
-</tr>
-
-<tr>
-  <td> Logic (OOP), GUI  </td>
-  <td>
-    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>, Swing
+    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
   </td>
   <td> pom.xml  </td>
   <td>
     <a href="https://github.com/topics/maven"/><img alt="maven" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png"></a>
   </td>
   <td>   </td>
-  <td> JShell, Eclipse Preview  </td>
+  <td> JShell  </td>
   <td>
-    <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
-  </td>
-</tr>
-
-<tr>
-  <td> Server-side  </td>
-  <td>
-    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a> Servlet
-  </td>
-  <td> pom.xml  </td>
-  <td>   </td>
-  <td>   </td>
-  <td>   </td>
-  <td>
-    <a href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png"></a>
     <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
   </td>
 </tr>
@@ -196,6 +169,57 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 </tbody>
 
 </table>
+
+
+
+
+### Server-Side Programming:
+
+<table>
+
+<thead>
+<tr>
+  <th>Core ⚙</th> <th>Server 🏗</th> <th>Templating ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+  <td>
+    <a href="https://github.com/topics/python"/><img alt="python" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a>
+  </td>
+  <td>
+    <a href="https://github.com/topics/flask"/><img alt="flask" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></a> Suit
+  </td>
+  <td>
+    <a href="https://github.com/topics/jinja"/><img alt="jinja" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png"></a>
+  </td>
+  <td>   </td>
+  <td>   </td>
+  <td> Ruff, mypy  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
+  </td>
+  <td>
+    Servlet
+    <a href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png"></a>
+  </td>
+  <td>   </td>
+  <td>   </td>
+  <td>   </td>
+  <td>
+    <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
+  </td>
+</tr>
+
+</tbody>
+
+</table>
+
 
 
 
