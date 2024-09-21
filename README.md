@@ -209,7 +209,7 @@ Common tools used:
     <a title="Python" href="https://github.com/topics/python"/><img alt="python" width=40 src="assets/python.png"></a>
   </td>
   <td>
-    <a title="Flask micro-web framework" href="https://github.com/topics/flask"/><img alt="flask" width=40 src="assets/flask.png"></a> Suit
+    <a title="Flask micro web framework" href="https://github.com/topics/flask"/><img alt="flask" width=40 src="assets/flask.png"></a> Suit
   </td>
   <td>
     <a title="Jinja templating engine" href="https://github.com/topics/jinja"/><img alt="jinja" width=40 src="assets/jinja.png"></a>
