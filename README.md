@@ -257,7 +257,8 @@ Common tools used:
   <td> Browsers  </td>
   <td>
     <a title="Firefox Browser" href="https://github.com/topics/firefox"/><img alt="firefox" width=40 src="assets/firefox.png"></a>
-    <a title="Chromium based browsers" href="https://github.com/topics/chrome"/><img alt="chrome" width=40 src="assets/chrome.png"></a>, VSCodium
+    <a title="Chromium based browsers" href="https://github.com/topics/chromium"/><img alt="chromium" width=40 src="assets/chromium.png"></a>,
+    VSCodium
   </td>
 </tr>
 
