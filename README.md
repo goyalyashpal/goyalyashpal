@@ -175,11 +175,29 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 ### Server-Side Programming:
 
+[RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
+[RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
+
+Common tools used:
+
+* curl CLI tool for `GET` requests
+
+* REST Client for `POST` requests with [RFC 2616] standard \
+  vscode-extension-id: `humao.rest-client`
+
+<!--
+* httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
+
+* Thunder Client: vscode-extension-id: `rangav.vscode-thunder-client`
+ -->
+
+
+
 <table>
 
 <thead>
 <tr>
-  <th>Core ⚙</th> <th>Server 🏗</th> <th>Templating ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+  <th>Core ⚙</th> <th>Server 📡</th> <th>Templating 📋</th>
 </tr>
 </thead>
 
@@ -195,24 +213,17 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <td>
     <a href="https://github.com/topics/jinja"/><img alt="jinja" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png"></a>
   </td>
-  <td>   </td>
-  <td>   </td>
-  <td> Ruff, mypy  </td>
 </tr>
 
 <tr>
   <td>
     <a href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
+    Servlet
   </td>
   <td>
-    Servlet
     <a href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png"></a>
   </td>
-  <td>   </td>
-  <td>   </td>
-  <td>   </td>
   <td>
-    <a href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
   </td>
 </tr>
 
@@ -250,7 +261,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 </tr>
 
 <tr>
-  <td> Database MS  </td>
+  <td> DBMS Database  </td>
   <td>
     <a href="https://github.com/topics/mysql"/><img alt="mysql" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></a>
     <a href="https://github.com/topics/sqlite"/><img alt="sqlite" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png"></a>
