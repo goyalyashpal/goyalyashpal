@@ -163,6 +163,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <td> JShell  </td>
   <td>
     <a title="Eclipse IDE" href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png"></a>
+    <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"/><img alt="adoptium" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/adoptium/adoptium.png"></a>
   </td>
 </tr>
 
@@ -218,7 +219,7 @@ Common tools used:
 <tr>
   <td>
     <a title="Java" href="https://github.com/topics/java"/><img alt="java" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></a>
-    Servlet
+    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"/><img alt="jakarta-ee" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png"></a>
   </td>
   <td>
     <a title="Apache Tomcat" href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png"></a>
