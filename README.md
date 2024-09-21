@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="PyPI: Python Package Index" href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="assets/pypi.png"></a>, PDM
   </td>
   <td>
-    <a title="Pytest Python testing framework" href="https://github.com/topics/pytest"/><img alt="pytest" width=40 src="assets/pytest.png"></a>
+    <a title="Pytest Python testing framework" href="NOPE/pytest"/><img alt="pytest" width=40 src="assets/pytest.png"></a>
   </td>
   <td>
     <a title="Jupyter" href="https://github.com/topics/jupyter"/><img alt="jupyter" width=40 src="assets/jupyter-notebook.png"></a>
@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <td>   </td>
   <td> JShell  </td>
   <td>
-    <a title="Eclipse IDE" href="https://github.com/topics/eclipse"/><img alt="eclipse" width=40 src="assets/eclipse.png"></a>
+    <a title="Eclipse IDE" href="NOPE/eclipse"/><img alt="eclipse" width=40 src="assets/eclipse.png"></a>
     <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"/><img alt="adoptium" width=40 src="assets/adoptium.png"></a>
   </td>
 </tr>
@@ -212,7 +212,7 @@ Common tools used:
     <a title="Flask micro web framework" href="https://github.com/topics/flask"/><img alt="flask" width=40 src="assets/flask.png"></a> Suit
   </td>
   <td>
-    <a title="Jinja templating engine" href="https://github.com/topics/jinja"/><img alt="jinja" width=40 src="assets/jinja.png"></a>
+    <a title="Jinja templating engine" href="NOPE/jinja"/><img alt="jinja" width=40 src="assets/jinja.png"></a>
   </td>
 </tr>
 
@@ -222,7 +222,7 @@ Common tools used:
     <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"/><img alt="jakarta-ee" width=40 src="assets/jakarta-ee.png"></a>
   </td>
   <td>
-    <a title="Apache Tomcat" href="https://github.com/topics/tomcat"/><img alt="tomcat" width=40 src="assets/tomcat.png"></a>
+    <a title="Apache Tomcat" href="NOPE/tomcat"/><img alt="tomcat" width=40 src="assets/tomcat.png"></a>
   </td>
   <td>
   </td>
@@ -276,8 +276,8 @@ Common tools used:
   <td> Flat-file DB  </td>
   <td>
     <a title="JSON data interchange format" href="https://github.com/topics/json"/><img alt="json" width=40 src="assets/json.png"></a>
-    <a title="XML eXtensible Markup Language" href="https://github.com/topics/xml"/><img alt="xml" width=40 src="assets/xml.png"></a>
-    <a title="YAML data serialization language" href="https://github.com/topics/yaml"/><img alt="yaml" width=40 src="assets/yaml.png"></a>
+    <a title="XML eXtensible Markup Language" href="NOPE/xml"/><img alt="xml" width=40 src="assets/xml.png"></a>
+    <a title="YAML data serialization language" href="NOPE/yaml"/><img alt="yaml" width=40 src="assets/yaml.png"></a>
   </td>
   <td> jq, nushell  </td>
   <td>  </td>
