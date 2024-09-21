@@ -1,0 +1,42 @@
+# 2024-09-21 16:07:20
+# rm *.png
+# aria2c --auto-file-renaming=false -i assets.uris
+
+https://raw.githubusercontent.com/github/explore/main/topics/c/c.png
+https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png
+https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
+https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
+
+https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png
+https://raw.githubusercontent.com/github/explore/main/topics/java/java.png
+https://raw.githubusercontent.com/github/explore/main/topics/adoptium/adoptium.png
+
+https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png
+https://raw.githubusercontent.com/github/explore/main/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/main/topics/css/css.png
+https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
+https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png
+https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png
+https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
+https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
+https://raw.githubusercontent.com/github/explore/main/topics/xml/xml.png
+https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png
+https://raw.githubusercontent.com/github/explore/main/topics/git/git.png
+
+
+## Discarded: Not available
+# https://raw.githubusercontent.com/github/explore/main/topics/llvm/llvm.png
+# https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png
+# https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png
+# https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png
+# https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png
+# https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png
+
+## Discarded: X-large logo/bg, complete black (invisible on dark bg), incomplete
+# https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png
+# https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png
+# https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png
+# https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png
+# https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png
+# https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png
+# https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png
