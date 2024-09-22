@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 <thead>
 <tr>
-  <th>Core ⚙</th> <th>Build 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
 </tr>
 </thead>
 
@@ -167,7 +167,9 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <td>
     <a title="Java" href="https://github.com/topics/java"/><img alt="java" height=40 src="assets/java.png"></a>
   </td>
-  <td> pom.xml  </td>
+  <td>
+    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"/><img alt="XML logo" height=40 src="assets/xml.png">POM.xml</a>
+  </td>
   <td>
     <a title="Apache Maven" href="https://github.com/topics/maven"/><img alt="maven" height=40 src="assets/maven.png"></a>
   </td>
