@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 </style>
 
 
-    <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>
+<i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>
 
   -->
 
@@ -127,7 +127,8 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <td>   </td>
   <td> Cling  </td>
   <td>
-    <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"/><img alt="llvm" width=40 src="assets/llvm.png"></a>, LLDB, VSCodium
+    <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"/><img alt="llvm" width=40 src="assets/llvm.png"></a>
+    , LLDB, VSCodium
   </td>
 </tr>
 
@@ -140,15 +141,16 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="Nix package manager" href="https://github.com/topics/nix"/><img alt="nix" width=40 src="assets/nix.png"></a>
   </td>
   <td>
-    <a title="PyPI: Python Package Index" href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="assets/pypi.png"></a>, PDM
+    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"/><img alt="pypi" width=40 src="assets/pypi.png"></a>
+    , PDM
   </td>
   <td>
     <a title="Pytest Python testing framework" href="NOPE/pytest"/><img alt="pytest" width=40 src="assets/pytest.png"></a>
   </td>
   <td>
-    <a title="Jupyter" href="https://github.com/topics/jupyter"/><img alt="jupyter" width=40 src="assets/jupyter-notebook.png"></a>
+    <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"/><img alt="jupyter" width=40 src="assets/jupyter-notebook.png"></a>
   </td>
-  <td> Ruff, mypy, Pdb+  </td>
+  <td> CPython, Ruff, mypy, Pdb+  </td>
 </tr>
 
 <tr>
@@ -209,7 +211,7 @@ Common tools used:
     <a title="Python" href="https://github.com/topics/python"/><img alt="python" width=40 src="assets/python.png"></a>
   </td>
   <td>
-    <a title="Flask micro web framework" href="https://github.com/topics/flask"/><img alt="flask" width=40 src="assets/flask.png"></a> Suit
+    <a title="Flask micro web framework" href="https://github.com/topics/flask"/><img alt="flask" width=40 src="assets/flask.png"></a>
   </td>
   <td>
     <a title="Jinja templating engine" href="NOPE/jinja"/><img alt="jinja" width=40 src="assets/jinja.png"></a>
@@ -251,7 +253,7 @@ Common tools used:
   <td> Client-side WebApps  </td>
   <td>
     <a title="HTML5" href="https://github.com/topics/html5"/><img alt="html5" width=40 src="assets/html.png"></a>
-    <a title="CSS: Cascading Style Sheets" href="https://github.com/topics/css3"/><img alt="css3" width=40 src="assets/css.png"></a>
+    <a title="CSS Cascading Style Sheets" href="https://github.com/topics/css3"/><img alt="css3" width=40 src="assets/css.png"></a>
     <a title="JavaScript" href="https://github.com/topics/javascript"/><img alt="javascript" width=40 src="assets/javascript.png"></a>
   </td>
   <td> Browsers  </td>
