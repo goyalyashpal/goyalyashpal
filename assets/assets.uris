@@ -66,8 +66,9 @@ https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
 	out=nix.png
 https://raw.githubusercontent.com/nushell/nushell/main/assets/icons/nushell-original.png
 	out=nushell.png
-https://pdm-project.org/latest/assets/logo_big.png
+https://raw.githubusercontent.com/pdm-project/pdm/main/docs/assets/logo_big.png
 	out=pdm.png
+# https://pdm-project.org/latest/assets/logo_big.png
 # https://pdm-project.org/latest/assets/logo.svg
 # 	out=pdm.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg
