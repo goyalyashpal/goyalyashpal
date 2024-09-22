@@ -1,75 +1,66 @@
 # 2024-09-21 16:07:20
 # rm *.png
-# aria2c --auto-file-renaming=false -i assets.uris
-
-https://raw.githubusercontent.com/github/explore/main/topics/c/c.png
-	out=c.png
-https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png
-	out=cpp.png
-https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
-	out=nix.png
-https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
-	out=python.png
-
-https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png
-	out=jupyter-notebook.png
-https://raw.githubusercontent.com/github/explore/main/topics/java/java.png
-	out=java.png
+## aria2c --auto-file-renaming=false -i assets.uris
+#
 https://raw.githubusercontent.com/github/explore/main/topics/adoptium/adoptium.png
 	out=adoptium.png
-
-https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png
-	out=jakarta-ee.png
-https://raw.githubusercontent.com/github/explore/main/topics/html/html.png
-	out=html.png
-https://raw.githubusercontent.com/github/explore/main/topics/css/css.png
-	out=css.png
-https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
-	out=javascript.png
-https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png
-	out=firefox.png
-https://raw.githubusercontent.com/github/explore/main/topics/chromium/chromium.png
-	out=chromium.png
-
-https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
-	out=sqlite.png
-https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
-	out=json.png
-https://raw.githubusercontent.com/github/explore/main/topics/xml/xml.png
-	out=xml.png
-https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png
-	out=linux.png
-https://raw.githubusercontent.com/github/explore/main/topics/git/git.png
-	out=git.png
-
-
-## Discarded: Not available
-# https://raw.githubusercontent.com/github/explore/main/topics/llvm/llvm.png
-#	out=llvm.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png
-#	out=pypi.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png
-#	out=pytest.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png
-#	out=jinja.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png
-#	out=eclipse.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png
-#	out=tomcat.png  #
-
-## Discarded: Faulty
-## inproportionate, all-black (invisible), or wrong
 # https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png
 #	out=bash.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/c/c.png
+	out=c.png
+https://raw.githubusercontent.com/github/explore/main/topics/chromium/chromium.png
+	out=chromium.png
+https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png
+	out=cpp.png
+https://raw.githubusercontent.com/github/explore/main/topics/css/css.png
+	out=css.png
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png
+#	out=eclipse.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png
+	out=firefox.png
 # https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png
 #	out=flask.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/git/git.png
+	out=git.png
+https://raw.githubusercontent.com/github/explore/main/topics/html/html.png
+	out=html.png
+https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png
+	out=jakarta-ee.png
+https://raw.githubusercontent.com/github/explore/main/topics/java/java.png
+	out=java.png
+https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
+	out=javascript.png
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png
+#	out=jinja.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
+	out=json.png
+https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png
+	out=jupyter-notebook.png
 # https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png
 #	out=latex.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png
+	out=linux.png
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/llvm/llvm.png
+#	out=llvm.png  #
 # https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png
 #	out=markdown.png  #
 # https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png
 #	out=maven.png  #
 # https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png
 #	out=mysql.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
+	out=nix.png
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png
+#	out=pypi.png  #
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png
+#	out=pytest.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
+	out=python.png
+https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
+	out=sqlite.png
+# 404 https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png
+#	out=tomcat.png  #
+https://raw.githubusercontent.com/github/explore/main/topics/xml/xml.png
+	out=xml.png
 # https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png
 #	out=yaml.png  #
