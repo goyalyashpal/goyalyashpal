@@ -1,11 +1,13 @@
 # 2024-09-21 16:07:20
-# rm *.png
+# rm *.png *.svg
 ## aria2c --auto-file-renaming=false -i assets.uris
-#
+
 https://raw.githubusercontent.com/github/explore/main/topics/adoptium/adoptium.png
 	out=adoptium.png
-# https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png
-#	out=bash.png  #
+https://docs.asciidoctor.org/_/img/asciidoctor-logo.svg
+	out=asciidoctor.svg
+https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg
+	out=bash.svg
 https://raw.githubusercontent.com/github/explore/main/topics/c/c.png
 	out=c.png
 https://raw.githubusercontent.com/github/explore/main/topics/chromium/chromium.png
@@ -14,53 +16,81 @@ https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png
 	out=cpp.png
 https://raw.githubusercontent.com/github/explore/main/topics/css/css.png
 	out=css.png
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/eclipse/eclipse.png
-#	out=eclipse.png  #
+https://curl.se/logo/curl-logo.svg
+	out=curl.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg
+	out=eclipse.svg
 https://raw.githubusercontent.com/github/explore/main/topics/firefox/firefox.png
 	out=firefox.png
-# https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png
-#	out=flask.png  #
+https://flask.palletsprojects.com/en/latest/_images/flask-horizontal.png
+	out=flask.png
 https://raw.githubusercontent.com/github/explore/main/topics/git/git.png
 	out=git.png
+https://www.gnu.org/graphics/heckert_gnu.transp.small.png
+	out=gnu.png
 https://raw.githubusercontent.com/github/explore/main/topics/html/html.png
 	out=html.png
-https://raw.githubusercontent.com/github/explore/main/topics/jakarta-ee/jakarta-ee.png
-	out=jakarta-ee.png
-https://raw.githubusercontent.com/github/explore/main/topics/java/java.png
-	out=java.png
+https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg
+	out=jakarta-ee.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg
+	out=java.svg
 https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
 	out=javascript.png
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/jinja/jinja.png
-#	out=jinja.png  #
+https://raw.githubusercontent.com/samuelcolvin/jinjahtml-vscode/refs/heads/main/icon.png
+	out=jinja.png
+https://jqlang.github.io/jq/jq.svg
+	out=jq.svg
 https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
 	out=json.png
 https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png
 	out=jupyter-notebook.png
-# https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png
-#	out=latex.png  #
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
+	out=latex.svg
 https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png
 	out=linux.png
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/llvm/llvm.png
-#	out=llvm.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png
-#	out=markdown.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/maven/maven.png
-#	out=maven.png  #
-# https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png
-#	out=mysql.png  #
+https://llvm.org/img/LLVMWyvernSmall.png
+	out=llvm.png
+https://tinusaur.com/wp-content/uploads/2022/01/GNU_Make_scfx.png
+	out=make.png
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg
+	out=markdown.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg
+	out=maven.svg
+https://miktex.org/images/miktex2022.svg
+	out=miktex.svg
+https://raw.githubusercontent.com/python/mypy/master/docs/source/mypy_light.svg
+	out=mypy.svg
+https://labs.mysql.com/common/logos/mysql-logo.svg?v2
+	out=mysql.svg
 https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
 	out=nix.png
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/pypi/pypi.png
-#	out=pypi.png  #
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/pytest/pytest.png
-#	out=pytest.png  #
-https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
-	out=python.png
+https://raw.githubusercontent.com/nushell/nushell/main/assets/icons/nushell-original.png
+	out=nushell.png
+https://pdm-project.org/latest/assets/logo_big.png
+	out=pdm.png
+# https://pdm-project.org/latest/assets/logo.svg
+# 	out=pdm.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg
+	out=pypi.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg
+	out=pytest.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+	out=python.svg
+https://raw.githubusercontent.com/astral-sh/ruff/refs/heads/main/docs/assets/ruff-favicon.png
+	out=ruff.png
 https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
 	out=sqlite.png
-# 404 https://raw.githubusercontent.com/github/explore/main/topics/tomcat/tomcat.png
-#	out=tomcat.png  #
-https://raw.githubusercontent.com/github/explore/main/topics/xml/xml.png
-	out=xml.png
-# https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png
-#	out=yaml.png  #
+https://www.texstudio.org/images/texstudio128x128.png
+	out=texstudio.png
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
+	out=tomcat.svg
+https://raw.githubusercontent.com/toml-lang/toml/refs/heads/main/logos/toml.svg
+	out=toml.svg
+https://typst.app/assets/images/typst.svg
+	out=typst.svg
+https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/stable/codium_cnl.svg
+	out=vscodium.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg
+	out=xml.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg
+	out=yaml.svg
