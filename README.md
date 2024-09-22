@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 <thead>
 <tr>
-  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Dev Tools 🛠</th>
 </tr>
 </thead>
 
@@ -257,7 +257,7 @@ Common tools used:
 
 <thead>
 <tr>
-  <th></th> <th>Core ⚙</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Tools 🛠🧰</th>
+  <th></th> <th>Core ⚙</th> <th>Tools 🛠🧰</th>
 </tr>
 </thead>
 
@@ -270,7 +270,6 @@ Common tools used:
     <a title="CSS Cascading Style Sheets" href="https://github.com/topics/css3"/><img alt="CSS3" height=40 src="assets/css.png"></a>
     <a title="JavaScript" href="https://github.com/topics/javascript"/><img alt="JavaScript" height=40 src="assets/javascript.png"></a>
   </td>
-  <td> Browsers  </td>
   <td>
     <a title="Firefox Browser" href="https://github.com/topics/firefox"/><img alt="Firefox" height=40 src="assets/firefox.png"></a>
     <a title="Chromium based browsers" href="https://github.com/topics/chromium"/><img alt="Chromium" height=40 src="assets/chromium.png"></a>
@@ -284,8 +283,7 @@ Common tools used:
     <a title="MySQL DBMS" href="https://github.com/topics/mysql"/><img alt="MySQL" height=40 src="assets/mysql.png"></a>
     <a title="SQLite Serverless RDBMS" href="https://github.com/topics/sqlite"/><img alt="SQLite" height=40 src="assets/sqlite.png"></a>
   </td>
-  <td> mysql, sqlite3  </td>
-  <td> MySQL Workbench  </td>
+  <td> Respective Shells, MySQL Workbench  </td>
 </tr>
 
 <tr>
@@ -311,7 +309,6 @@ Common tools used:
     , <a title="Asciidoctor - A fast, open source, Ruby-based text publishing tool" href="https://asciidoctor.org/"/>AsciiDoc</a>
     , <a title="Typst: Compose papers faster" href="https://typst.app/"/>Typst</a>
   </td>
-  <td>   </td>
   <td>
     <a title="TeXstudio - A LaTeX editor" href="https://www.texstudio.org/"/>TeXStudio</a>
     , <a title="MiKTeX - TeX/LaTeX distribution for Windows" href="https://miktex.org/"/>MiKTeX</a>
@@ -327,7 +324,6 @@ Common tools used:
     <a title="bash" href="https://github.com/topics/bash"/><img alt="Bash" height=40 src="assets/bash.png"></a>
     <a title="git" href="https://github.com/topics/git"/><img alt="Git" height=40 src="assets/git.png"></a>
   </td>
-  <td>   </td>
   <td>
     <a title="bash_kernel · PyPI" href="https://pypi.org/project/bash_kernel/"/>Jupyter (IBash)</a>
     <!-- , <a title="nix eval - Nix Reference Manual" href="https://nix.dev/manual/nix/latest/command-ref/new-cli/nix3-eval.html"/>nix eval</a> -->
