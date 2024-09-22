@@ -116,70 +116,70 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 <tr>
   <td>
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
-    <a title="C language" href="https://github.com/topics/c"/><img alt="C" height=40 src="assets/c.png"></a>
-    <a title="C++" href="https://github.com/topics/cpp"/><img alt="C++" height=40 src="assets/cpp.png"></a>
+    <a title="C language" href="https://github.com/topics/c"><img alt="C" height=40 src="assets/c.png" /></a>
+    <a title="C++" href="https://github.com/topics/cpp"><img alt="C++" height=40 src="assets/cpp.png" /></a>
 
   </td>
   <td> Makefile,
-    <a title="GNU Make" href="https://www.gnu.org/software/make/"/><img alt="Make" height=40 src="assets/gnu.png"></a>
-    , <a title="Nix package manager" href="https://github.com/topics/nix"/><img alt="Nix Pkg Manager" height=40 src="assets/nix.png"></a>
+    <a title="GNU Make" href="https://www.gnu.org/software/make/"><img alt="Make" height=40 src="assets/gnu.png" /></a>
+    <a title="Nix package manager" href="https://github.com/topics/nix"><img alt="Nix Pkg Manager" height=40 src="assets/nix.png" /></a>
   </td>
   <td>   </td>
   <td>   </td>
   <td>
-    <a title="Cling - ROOT https://root.cern/cling/" href="https://rawcdn.githack.com/root-project/cling/master/www/index.html"/>Cling</a>
+    <a title="Cling - ROOT https://root.cern/cling/" href="https://rawcdn.githack.com/root-project/cling/master/www/index.html">Cling</a>
   </td>
   <td>
-    <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"/><img alt="LLVM" height=40 src="assets/llvm.png"></a>
-    , <a title="🐛 LLDB" href="https://lldb.llvm.org/"/>LLDB</a>
-    , <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"/><img alt="VSCodium" height=40 src="assets/vscodium.svg" /></a>
+    <a title="🐛 LLDB" href="https://lldb.llvm.org/">LLDB</a>
+    <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"><img alt="LLVM" height=40 src="assets/llvm.png" /></a>
+    <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"><img alt="VSCodium" height=40 src="assets/vscodium.svg" /></a>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a title="Python" href="https://github.com/topics/python"/><img alt="Python" height=40 src="assets/python.svg"></a>
+    <a title="Python" href="https://github.com/topics/python"><img alt="Python" height=40 src="assets/python.svg" /></a>
   </td>
   <td>
-    <a title="Python Project TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"/><img alt="TOML logo" height=40 src="assets/toml.svg"/> pyproject.toml</a>
+    <a title="Python Project TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"><img alt="TOML logo" height=40 src="assets/toml.svg" /> pyproject.toml</a>
     <!-- href="https://pip.pypa.io/en/stable/reference/build-system/pyproject-toml/" -->
-    , <a title="Nix package manager" href="https://github.com/topics/nix"/><img alt="Nix Pkg Manager" height=40 src="assets/nix.png"></a>
+    <a title="Nix package manager" href="https://github.com/topics/nix"><img alt="Nix Pkg Manager" height=40 src="assets/nix.png" /></a>
   </td>
   <td>
-    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"/><img alt="PyPI" height=40 src="assets/pypi.svg"></a>
-    , <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"/><img alt="PDM" height=40 src="assets/pdm.png"></a>
+    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img alt="PyPI" height=40 src="assets/pypi.svg" /></a>
+    <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img alt="PDM" height=40 src="assets/pdm.png" /></a>
   </td>
   <td>
-    <a title="Pytest Python testing framework" href="https://pytest.org"/><img alt="Pytest" height=40 src="assets/pytest.svg"></a>
+    <a title="Pytest Python testing framework" href="https://pytest.org"><img alt="Pytest" height=40 src="assets/pytest.svg" /></a>
   </td>
   <td>
-    <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"/><img alt="Jupyter" height=40 src="assets/jupyter-notebook.png"></a>
+    <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"><img alt="Jupyter" height=40 src="assets/jupyter-notebook.png" /></a>
   </td>
   <td>
-    <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"/>CPython</a>
-    , <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"/><img alt="Ruff" height=40 src="assets/ruff.png" /></a>
-    , <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"/><img alt="mypy" height=40 src="assets/mypy.svg" /></a>
-    , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/"/>Pdb+</a>
+    <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/">CPython</a>
+    , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
+    <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img alt="Ruff" height=40 src="assets/ruff.png" /></a>
+    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img alt="mypy" height=40 src="assets/mypy.svg" /></a>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a title="Java" href="https://github.com/topics/java"/><img alt="Java" height=40 src="assets/java.svg"></a>
+    <a title="Java" href="https://github.com/topics/java"><img alt="Java" height=40 src="assets/java.svg" /></a>
   </td>
   <td>
-    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"/><img alt="XML logo" height=40 src="assets/xml.svg"> POM.xml</a>
+    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"><img alt="XML logo" height=40 src="assets/xml.svg" /> POM.xml</a>
   </td>
   <td>
-    <a title="Apache Maven" href="https://github.com/topics/maven"/><img alt="Maven" height=40 src="assets/maven.svg"></a>
+    <a title="Apache Maven" href="https://github.com/topics/maven"><img alt="Maven" height=40 src="assets/maven.svg" /></a>
   </td>
   <td>   </td>
   <td>
-    <a title="Introduction to JShell" href="https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html"/>JShell</a>
+    <a title="Introduction to JShell" href="https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html">JShell</a>
   </td>
   <td>
-    <a title="Eclipse IDE" href="https://eclipseide.org/"/><img alt="Eclipse" height=40 src="assets/eclipse.svg"></a>
-    <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"/><img alt="Adoptium Temurin JDK" height=40 src="assets/adoptium.png"></a>
+    <a title="Eclipse IDE" href="https://eclipseide.org/"><img alt="Eclipse" height=40 src="assets/eclipse.svg" /></a>
+    <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"><img alt="Adoptium Temurin JDK" height=40 src="assets/adoptium.png" /></a>
   </td>
 </tr>
 
@@ -222,23 +222,23 @@ Common tools used:
 
 <tr>
   <td>
-    <a title="Python" href="https://github.com/topics/python"/><img alt="Python" height=40 src="assets/python.svg"></a>
+    <a title="Python" href="https://github.com/topics/python"><img alt="Python" height=40 src="assets/python.svg" /></a>
   </td>
   <td>
-    <a title="Flask micro web framework" href="https://github.com/topics/flask"/><img alt="Flask" height=40 src="assets/flask.png"></a>
+    <a title="Flask micro web framework" href="https://github.com/topics/flask"><img alt="Flask" height=40 src="assets/flask.png" /></a>
   </td>
   <td>
-    <a title="Jinja templating engine" href="https://jinja.palletsprojects.com/"/><img alt="Jinja" height=40 src="assets/jinja.png"></a>
+    <a title="Jinja templating engine" href="https://jinja.palletsprojects.com/"><img alt="Jinja" height=40 src="assets/jinja.png" /></a>
   </td>
 </tr>
 
 <tr>
   <td>
-    <a title="Java" href="https://github.com/topics/java"/><img alt="Java" height=40 src="assets/java.svg"></a>
-    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"/><img alt="Jakarta EE" height=40 src="assets/jakarta-ee.svg"></a>
+    <a title="Java" href="https://github.com/topics/java"><img alt="Java" height=40 src="assets/java.svg" /></a>
+    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"><img alt="Jakarta EE" height=40 src="assets/jakarta-ee.svg" /></a>
   </td>
   <td>
-    <a title="Apache Tomcat" href="https://tomcat.apache.org/"/><img alt="Tomcat" height=40 src="assets/tomcat.svg"></a>
+    <a title="Apache Tomcat" href="https://tomcat.apache.org/"><img alt="Tomcat" height=40 src="assets/tomcat.svg" /></a>
   </td>
   <td>
   </td>
@@ -266,22 +266,22 @@ Common tools used:
 <tr>
   <td> Client-side WebApps  </td>
   <td>
-    <a title="HTML5" href="https://github.com/topics/html5"/><img alt="HTML5" height=40 src="assets/html.png"></a>
-    <a title="CSS Cascading Style Sheets" href="https://github.com/topics/css3"/><img alt="CSS3" height=40 src="assets/css.png"></a>
-    <a title="JavaScript" href="https://github.com/topics/javascript"/><img alt="JavaScript" height=40 src="assets/javascript.png"></a>
+    <a title="HTML5" href="https://github.com/topics/html5"><img alt="HTML5" height=40 src="assets/html.png" /></a>
+    <a title="CSS Cascading Style Sheets" href="https://github.com/topics/css3"><img alt="CSS3" height=40 src="assets/css.png" /></a>
+    <a title="JavaScript" href="https://github.com/topics/javascript"><img alt="JavaScript" height=40 src="assets/javascript.png" /></a>
   </td>
   <td>
-    <a title="Firefox Browser" href="https://github.com/topics/firefox"/><img alt="Firefox" height=40 src="assets/firefox.png"></a>
-    <a title="Chromium based browsers" href="https://github.com/topics/chromium"/><img alt="Chromium" height=40 src="assets/chromium.png"></a>
-    , <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"/><img alt="VSCodium" height=40 src="assets/vscodium.svg" /></a>
+    <a title="Firefox Browser" href="https://github.com/topics/firefox"><img alt="Firefox" height=40 src="assets/firefox.png" /></a>
+    <a title="Chromium based browsers" href="https://github.com/topics/chromium"><img alt="Chromium" height=40 src="assets/chromium.png" /></a>
+    <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"><img alt="VSCodium" height=40 src="assets/vscodium.svg" /></a>
   </td>
 </tr>
 
 <tr>
   <td> DBMS Database  </td>
   <td>
-    <a title="MySQL DBMS" href="https://github.com/topics/mysql"/><img alt="MySQL" height=40 src="assets/mysql.svg"></a>
-    <a title="SQLite Serverless RDBMS" href="https://github.com/topics/sqlite"/><img alt="SQLite" height=40 src="assets/sqlite.png"></a>
+    <a title="MySQL DBMS" href="https://github.com/topics/mysql"><img alt="MySQL" height=40 src="assets/mysql.svg" /></a>
+    <a title="SQLite Serverless RDBMS" href="https://github.com/topics/sqlite"><img alt="SQLite" height=40 src="assets/sqlite.png" /></a>
   </td>
   <td> Respective Shells, MySQL Workbench  </td>
 </tr>
@@ -289,14 +289,14 @@ Common tools used:
 <tr>
   <td> Flat-file semi-structured DB  </td>
   <td>
-    <a title="JSON data interchange format" href="https://github.com/topics/json"/><img alt="JSON" height=40 src="assets/json.png"></a>
-    <a title="XML eXtensible Markup Language" href="https://www.w3.org/XML/"/><img alt="XML" height=40 src="assets/xml.svg"></a>
-    <a title="YAML data serialization language" href="https://yaml.org/"/><img alt="YAML" height=40 src="assets/yaml.svg"></a>
+    <a title="JSON data interchange format" href="https://github.com/topics/json"><img alt="JSON" height=40 src="assets/json.png" /></a>
+    <a title="XML eXtensible Markup Language" href="https://www.w3.org/XML/"><img alt="XML" height=40 src="assets/xml.svg" /></a>
+    <a title="YAML data serialization language" href="https://yaml.org/"><img alt="YAML" height=40 src="assets/yaml.svg" /></a>
   </td>
   <td>
-    <a title="jq JSON Processor" href="https://jqlang.github.io/jq/"/><img alt="jq" height=40 src="assets/jq.svg" /></a>
-    , <a title="yq YAML Processor" href="https://mikefarah.gitbook.io/yq"/>yq</a>
-    , <a title="Nushell" href="https://www.nushell.sh/"/><img alt="Nushell" height=40 src="assets/nushell.png" /></a>
+    <a title="Nushell" href="https://www.nushell.sh/"><img alt="Nushell" height=40 src="assets/nushell.png" /></a>
+    <a title="jq JSON Processor" href="https://jqlang.github.io/jq/"><img alt="jq" height=40 src="assets/jq.svg" /></a>
+    <a title="yq YAML Processor" href="https://mikefarah.gitbook.io/yq">yq</a>
   </td>
   <td>  </td>
 </tr>
@@ -304,30 +304,30 @@ Common tools used:
 <tr>
   <td> Markup  </td>
   <td>
-    <a title="LaTeX document preparation system" href="https://github.com/topics/latex"/><img alt="LaTeX" height=40 src="assets/latex.svg"></a>
-    <a title="Markdown plaintext formatting to HTML conversion" href="https://github.com/topics/markdown"/><img alt="Markdown" height=40 src="assets/markdown.svg"></a>
-    , <a title="Asciidoctor - A fast, open source, Ruby-based text publishing tool" href="https://asciidoctor.org/"/><img alt="AsciiDoc" height=40 src="assets/asciidoctor.svg" /></a>
-    , <a title="Typst: Compose papers faster" href="https://typst.app/"/><img alt="Typst" height=40 src="assets/typst.svg" /></a>
+    <a title="LaTeX document preparation system" href="https://github.com/topics/latex"><img alt="LaTeX" height=40 src="assets/latex.svg" /></a>
+    <a title="Markdown plaintext formatting to HTML conversion" href="https://github.com/topics/markdown"><img alt="Markdown" height=40 src="assets/markdown.svg" /></a>
+    <a title="Asciidoctor - A fast, open source, Ruby-based text publishing tool" href="https://asciidoctor.org/"><img alt="AsciiDoc" height=40 src="assets/asciidoctor.svg" /></a>
+    <a title="Typst: Compose papers faster" href="https://typst.app/"><img alt="Typst" height=40 src="assets/typst.svg" /></a>
   </td>
   <td>
-    <a title="TeXstudio - A LaTeX editor" href="https://www.texstudio.org/"/><img alt="TeXStudio" height=40 src="assets/texstudio.png" /></a>
-    , <a title="MiKTeX - TeX/LaTeX distribution for Windows" href="https://miktex.org/"/><img alt="MiKTeX" height=40 src="assets/miktex.svg" /></a>
-    , <a title="TeX Live - TeX Users Group" href="https://tug.org/texlive/"/>Tex Live</a>
+    <a title="TeXstudio - A LaTeX editor" href="https://www.texstudio.org/"><img alt="TeXStudio" height=40 src="assets/texstudio.png" /></a>
+    <a title="MiKTeX - TeX/LaTeX distribution for Windows" href="https://miktex.org/"><img alt="MiKTeX" height=40 src="assets/miktex.svg" /></a>
+    <a title="TeX Live - TeX Users Group" href="https://tug.org/texlive/">Tex Live</a>
   </td>
 </tr>
 
 <tr>
   <td> DevOps  </td>
   <td>
-    <a title="linux" href="https://github.com/topics/linux"/><img alt="Linux" height=40 src="assets/linux.png"></a>
-    <a title="nix" href="https://github.com/topics/nix"/><img alt="Nix Pkg Manager" height=40 src="assets/nix.png"></a>
-    <a title="bash" href="https://github.com/topics/bash"/><img alt="Bash" height=40 src="assets/bash.svg"></a>
-    <a title="git" href="https://github.com/topics/git"/><img alt="Git" height=40 src="assets/git.png"></a>
+    <a title="linux" href="https://github.com/topics/linux"><img alt="Linux" height=40 src="assets/linux.png" /></a>
+    <a title="nix" href="https://github.com/topics/nix"><img alt="Nix Pkg Manager" height=40 src="assets/nix.png" /></a>
+    <a title="bash" href="https://github.com/topics/bash"><img alt="Bash" height=40 src="assets/bash.svg" /></a>
+    <a title="git" href="https://github.com/topics/git"><img alt="Git" height=40 src="assets/git.png" /></a>
   </td>
   <td>
-    <a title="bash_kernel · PyPI" href="https://pypi.org/project/bash_kernel/"/>Jupyter (IBash)</a>
-    <!-- , <a title="nix eval - Nix Reference Manual" href="https://nix.dev/manual/nix/latest/command-ref/new-cli/nix3-eval.html"/>nix eval</a> -->
-    , <a title="Nix language basics — nix.dev documentation" href="https://nix.dev/tutorials/nix-language.html#interactive-evaluation"/>nix eval</a>
+    <a title="bash_kernel · PyPI" href="https://pypi.org/project/bash_kernel/">Jupyter (IBash)</a>
+    <!-- , <a title="nix eval - Nix Reference Manual" href="https://nix.dev/manual/nix/latest/command-ref/new-cli/nix3-eval.html">nix eval</a> -->
+    <a title="Nix language basics — nix.dev documentation" href="https://nix.dev/tutorials/nix-language.html#interactive-evaluation">nix eval</a>
   </td>
 </tr>
 
