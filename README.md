@@ -141,7 +141,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="cassets/python.svg" /></a>
   </td>
   <td>
-    <a title="Python Project PyProject.TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"> pyproject.toml <img height=40 alt="TOML logo" src="cassets/toml.svg" /></a>
+    <a title="Python Project PyProject.TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"> pyproject.toml <img height=30 alt="TOML logo" src="cassets/toml.svg" /></a>
     <!-- href="https://pip.pypa.io/en/stable/reference/build-system/pyproject-toml/" -->
     , <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
   </td>
@@ -168,7 +168,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="Java" href="https://github.com/topics/java"><img height=40 alt="Java" src="assets/java.svg" /></a>
   </td>
   <td>
-    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"> POM.xml <img height=40 alt="XML logo" src="cassets/xml.svg" /></a>
+    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"> POM.xml <img height=30 alt="XML logo" src="cassets/xml.svg" /></a>
   </td>
   <td>
     <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"><img height=40 alt="Adoptium Temurin JDK" src="assets/adoptium.png" /></a>
