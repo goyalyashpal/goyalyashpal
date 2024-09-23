@@ -146,14 +146,14 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     , <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
   </td>
   <td>
-    <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"> CPython </a>
-    , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
-    , <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
-    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
+    <!-- <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"> CPython </a> -->
+    <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
+    , <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
+    <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
   </td>
   <td>
     <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img height=40 alt="PDM" src="assets/pdm.png" /></a>
-    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img height=40 alt="PyPI" src="assets/pypi.svg" /></a>
+    <!-- <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img height=40 alt="PyPI" src="assets/pypi.svg" /></a> -->
   </td>
   <td>
     <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"><img height=40 alt="Jupyter" src="assets/jupyter-notebook.png" /></a>
