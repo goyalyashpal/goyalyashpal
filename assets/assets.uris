@@ -8,12 +8,12 @@ https://docs.asciidoctor.org/_/img/asciidoctor-logo.svg
 	out=asciidoctor.svg
 https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg
 	out=bash.svg
-https://raw.githubusercontent.com/github/explore/main/topics/c/c.png
-	out=c.png
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg
+	out=c.svg
 https://raw.githubusercontent.com/github/explore/main/topics/chromium/chromium.png
 	out=chromium.png
-https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png
-	out=cpp.png
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg
+	out=cpp.svg
 https://raw.githubusercontent.com/github/explore/main/topics/css/css.png
 	out=css.png
 https://curl.se/logo/curl-logo.svg
@@ -30,22 +30,22 @@ https://www.gnu.org/graphics/heckert_gnu.transp.small.png
 	out=gnu.png
 https://raw.githubusercontent.com/github/explore/main/topics/html/html.png
 	out=html.png
-https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg
-	out=jakarta-ee.svg
+# https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg
+# 	out=jakarta-ee.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg
 	out=java.svg
 https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png
 	out=javascript.png
 https://raw.githubusercontent.com/samuelcolvin/jinjahtml-vscode/refs/heads/main/icon.png
 	out=jinja.png
-https://jqlang.github.io/jq/jq.svg
-	out=jq.svg
+# https://jqlang.github.io/jq/jq.svg
+# 	out=jq.svg
 https://raw.githubusercontent.com/github/explore/main/topics/json/json.png
 	out=json.png
 https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png
 	out=jupyter-notebook.png
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
-	out=latex.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
+# 	out=latex.svg
 https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png
 	out=linux.png
 https://llvm.org/img/LLVMWyvernSmall.png
@@ -54,12 +54,12 @@ https://tinusaur.com/wp-content/uploads/2022/01/GNU_Make_scfx.png
 	out=make.png
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg
 	out=markdown.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg
-	out=maven.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg
+# 	out=maven.svg
 https://miktex.org/images/miktex2022.svg
 	out=miktex.svg
-https://raw.githubusercontent.com/python/mypy/master/docs/source/mypy_light.svg
-	out=mypy.svg
+# https://raw.githubusercontent.com/python/mypy/master/docs/source/mypy_light.svg
+# 	out=mypy.svg
 https://labs.mysql.com/common/logos/mysql-logo.svg?v2
 	out=mysql.svg
 https://raw.githubusercontent.com/github/explore/main/topics/nix/nix.png
@@ -73,25 +73,25 @@ https://raw.githubusercontent.com/pdm-project/pdm/main/docs/assets/logo_big.png
 # 	out=pdm.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg
 	out=pypi.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg
-	out=pytest.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
-	out=python.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg
+# 	out=pytest.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+# 	out=python.svg
 https://raw.githubusercontent.com/astral-sh/ruff/refs/heads/main/docs/assets/ruff-favicon.png
 	out=ruff.png
 https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png
 	out=sqlite.png
 https://www.texstudio.org/images/texstudio128x128.png
 	out=texstudio.png
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
-	out=tomcat.svg
-https://raw.githubusercontent.com/toml-lang/toml/refs/heads/main/logos/toml.svg
-	out=toml.svg
-https://typst.app/assets/images/typst.svg
-	out=typst.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
+# 	out=tomcat.svg
+# https://raw.githubusercontent.com/toml-lang/toml/refs/heads/main/logos/toml.svg
+# 	out=toml.svg
+# https://typst.app/assets/images/typst.svg
+# 	out=typst.svg
 https://raw.githubusercontent.com/VSCodium/vscodium/master/icons/stable/codium_cnl.svg
 	out=vscodium.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg
-	out=xml.svg
+# https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg
+# 	out=xml.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg
 	out=yaml.svg

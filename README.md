@@ -116,8 +116,8 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 <tr>
   <td>
     <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
-    <a title="C language" href="https://github.com/topics/c"><img height=40 alt="C" src="assets/c.png" /></a>
-    <a title="C++" href="https://github.com/topics/cpp"><img height=40 alt="C++" src="assets/cpp.png" /></a>
+    <a title="C language" href="https://github.com/topics/c"><img height=40 alt="C" src="assets/c.svg" /></a>
+    <a title="C++" href="https://github.com/topics/cpp"><img height=40 alt="C++" src="assets/cpp.svg" /></a>
 
   </td>
   <td> Makefile,
@@ -138,10 +138,10 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 <tr>
   <td>
-    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="assets/python.svg" /></a>
+    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="cassets/python.svg" /></a>
   </td>
   <td>
-    <a title="Python Project TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"><img height=40 alt="TOML logo" src="assets/toml.svg" /> pyproject.toml</a>
+    <a title="Python Project TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"><img height=40 alt="TOML logo" src="cassets/toml.svg" /> pyproject.toml</a>
     <!-- href="https://pip.pypa.io/en/stable/reference/build-system/pyproject-toml/" -->
     <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
   </td>
@@ -150,7 +150,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img height=40 alt="PDM" src="assets/pdm.png" /></a>
   </td>
   <td>
-    <a title="Pytest Python testing framework" href="https://pytest.org"><img height=40 alt="Pytest" src="assets/pytest.svg" /></a>
+    <a title="Pytest Python testing framework" href="https://pytest.org"><img height=40 alt="Pytest" src="cassets/pytest.svg" /></a>
   </td>
   <td>
     <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"><img height=40 alt="Jupyter" src="assets/jupyter-notebook.png" /></a>
@@ -159,7 +159,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/">CPython</a>
     , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
     <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
-    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="assets/mypy.svg" /></a>
+    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
   </td>
 </tr>
 
@@ -168,10 +168,10 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="Java" href="https://github.com/topics/java"><img height=40 alt="Java" src="assets/java.svg" /></a>
   </td>
   <td>
-    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"><img height=40 alt="XML logo" src="assets/xml.svg" /> POM.xml</a>
+    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"><img height=40 alt="XML logo" src="cassets/xml.svg" /> POM.xml</a>
   </td>
   <td>
-    <a title="Apache Maven" href="https://github.com/topics/maven"><img height=40 alt="Maven" src="assets/maven.svg" /></a>
+    <a title="Apache Maven" href="https://github.com/topics/maven"><img height=40 alt="Maven" src="cassets/maven.svg" /></a>
   </td>
   <td>   </td>
   <td>
@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 Common tools used:
 
-* <a title="curl" href="https://curl.se/"><img alt="curl" height=20 src="assets/curl.svg" /></a> CLI tool for `GET` requests
+* <a title="curl" href="https://curl.se/"><img height=20 alt="curl" src="assets/curl.svg" /></a> CLI tool for `GET` requests
 
 * REST Client for `POST` requests with [RFC 2616] standard \
   vscode-extension-id: `humao.rest-client`
@@ -222,7 +222,7 @@ Common tools used:
 
 <tr>
   <td>
-    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="assets/python.svg" /></a>
+    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="cassets/python.svg" /></a>
   </td>
   <td>
     <a title="Flask micro web framework" href="https://github.com/topics/flask"><img height=40 alt="Flask" src="assets/flask.png" /></a>
@@ -235,10 +235,10 @@ Common tools used:
 <tr>
   <td>
     <a title="Java" href="https://github.com/topics/java"><img height=40 alt="Java" src="assets/java.svg" /></a>
-    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"><img height=40 alt="Jakarta EE" src="assets/jakarta-ee.svg" /></a>
+    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"><img height=40 alt="Jakarta EE" src="cassets/jakarta-ee.svg" /></a>
   </td>
   <td>
-    <a title="Apache Tomcat" href="https://tomcat.apache.org/"><img height=40 alt="Tomcat" src="assets/tomcat.svg" /></a>
+    <a title="Apache Tomcat" href="https://tomcat.apache.org/"><img height=40 alt="Tomcat" src="cassets/tomcat.svg" /></a>
   </td>
   <td>
   </td>
@@ -290,24 +290,23 @@ Common tools used:
   <td> Flat-file semi-structured DB  </td>
   <td>
     <a title="JSON data interchange format" href="https://github.com/topics/json"><img height=40 alt="JSON" src="assets/json.png" /></a>
-    <a title="XML eXtensible Markup Language" href="https://www.w3.org/XML/"><img height=40 alt="XML" src="assets/xml.svg" /></a>
+    <a title="XML eXtensible Markup Language" href="https://www.w3.org/XML/"><img height=40 alt="XML" src="cassets/xml.svg" /></a>
     <a title="YAML data serialization language" href="https://yaml.org/"><img height=40 alt="YAML" src="assets/yaml.svg" /></a>
   </td>
   <td>
     <a title="Nushell" href="https://www.nushell.sh/"><img height=40 alt="Nushell" src="assets/nushell.png" /></a>
-    <a title="jq JSON Processor" href="https://jqlang.github.io/jq/"><img height=40 alt="jq" src="assets/jq.svg" /></a>
+    <a title="jq JSON Processor" href="https://jqlang.github.io/jq/"><img height=40 alt="jq" src="cassets/jq.svg" /></a>
     <a title="yq YAML Processor" href="https://mikefarah.gitbook.io/yq">yq</a>
   </td>
-  <td>  </td>
 </tr>
 
 <tr>
   <td> Markup  </td>
   <td>
-    <a title="LaTeX document preparation system" href="https://github.com/topics/latex"><img height=40 alt="LaTeX" src="assets/latex.svg" /></a>
+    <a title="LaTeX document preparation system" href="https://github.com/topics/latex"><img height=40 alt="LaTeX" src="cassets/latex.svg" /></a>
     <a title="Markdown plaintext formatting to HTML conversion" href="https://github.com/topics/markdown"><img height=40 alt="Markdown" src="assets/markdown.svg" /></a>
     <a title="Asciidoctor - A fast, open source, Ruby-based text publishing tool" href="https://asciidoctor.org/"><img height=40 alt="AsciiDoc" src="assets/asciidoctor.svg" /></a>
-    <a title="Typst: Compose papers faster" href="https://typst.app/"><img height=40 alt="Typst" src="assets/typst.svg" /></a>
+    <a title="Typst: Compose papers faster" href="https://typst.app/"><img height=40 alt="Typst" src="cassets/typst.svg" /></a>
   </td>
   <td>
     <a title="TeXstudio - A LaTeX editor" href="https://www.texstudio.org/"><img height=40 alt="TeXStudio" src="assets/texstudio.png" /></a>

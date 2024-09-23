@@ -1,0 +1,27 @@
+## 2024-09-22 00:39:50
+## aria2c --auto-file-renaming=false --allow-overwrite=false -i cassets.uris
+
+
+
+https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg
+	out=jakarta-ee.svg
+https://jqlang.github.io/jq/jq.svg
+	out=jq.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
+	out=latex.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg
+	out=maven.svg
+https://raw.githubusercontent.com/python/mypy/master/docs/source/mypy_light.svg
+	out=mypy.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg
+	out=pytest.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
+	out=python.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
+	out=tomcat.svg
+https://raw.githubusercontent.com/toml-lang/toml/refs/heads/main/logos/toml.svg
+	out=toml.svg
+https://typst.app/assets/images/typst.svg
+	out=typst.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg
+	out=xml.svg
