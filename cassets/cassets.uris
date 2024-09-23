@@ -3,25 +3,47 @@
 
 
 
+# width="500" height="190" viewBox="0 0 500 150"
 https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg
 	out=jakarta-ee.svg
+
+# width="400" height="300" version="1.0" viewBox="0 0 400 220"
 https://jqlang.github.io/jq/jq.svg
 	out=jq.svg
+
+# width="128" height="90" viewBox="1 40 126 48"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
 	out=latex.svg
+
+# width="128" height="50" viewBox="3 46 122 33"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg
 	out=maven.svg
+
+# inkscape sodipodi svg :)
+# width="874" height="296" viewBox="0 -11 874 196"
 https://raw.githubusercontent.com/python/mypy/master/docs/source/mypy_light.svg
 	out=mypy.svg
+
+# viewBox="12 14 101 96"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg
 	out=pytest.svg
+
+# viewBox="12 11 104 106"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
 	out=python.svg
+
+# viewBox="0 2 128 120"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
 	out=tomcat.svg
+
+# width="400" height="500" viewBox="0 0 400 400"
 https://raw.githubusercontent.com/toml-lang/toml/refs/heads/main/logos/toml.svg
 	out=toml.svg
+
+# width="91" height="65" viewBox="-10 0 111 35" style="background-color:#239DAD80;"
 https://typst.app/assets/images/typst.svg
 	out=typst.svg
+
+# width="128" height="96" viewBox="0 36 128 56"
 https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg
 	out=xml.svg
