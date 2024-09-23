@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 <thead>
 <tr>
-  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Deps ⏬🧳</th> <th>Test ✔</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Dev Tools 🛠</th>
+  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Dev Tools 🛠</th> <th>Deps ⏬🧳</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Test ✔</th>
 </tr>
 </thead>
 
@@ -124,16 +124,16 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="GNU Make" href="https://www.gnu.org/software/make/"><img height=40 alt="Make" src="assets/gnu.png" /></a>
     <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
   </td>
-  <td>   </td>
-  <td>   </td>
-  <td>
-    <a title="Cling - ROOT https://root.cern/cling/" href="https://rawcdn.githack.com/root-project/cling/master/www/index.html"> <code>Cling</code> </a>
-  </td>
   <td>
     <a title="🐛 LLDB" href="https://lldb.llvm.org/"> <code>LLDB</code> </a>
     , <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"><img height=40 alt="LLVM" src="assets/llvm.png" /></a>
     <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"><img height=40 alt="VSCodium" src="assets/vscodium.svg" /></a>
   </td>
+  <td>   </td>
+  <td>
+    <a title="Cling - ROOT https://root.cern/cling/" href="https://rawcdn.githack.com/root-project/cling/master/www/index.html"> <code>Cling</code> </a>
+  </td>
+  <td>   </td>
 </tr>
 
 <tr>
@@ -146,20 +146,20 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     , <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
   </td>
   <td>
-    <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img height=40 alt="PDM" src="assets/pdm.png" /></a>
-    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img height=40 alt="PyPI" src="assets/pypi.svg" /></a>
+    <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"> CPython </a>
+    , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
+    , <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
+    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
   </td>
   <td>
-    <a title="Pytest Python testing framework" href="https://pytest.org"><img height=40 alt="Pytest" src="cassets/pytest.svg" /></a>
+    <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img height=40 alt="PDM" src="assets/pdm.png" /></a>
+    <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img height=40 alt="PyPI" src="assets/pypi.svg" /></a>
   </td>
   <td>
     <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"><img height=40 alt="Jupyter" src="assets/jupyter-notebook.png" /></a>
   </td>
   <td>
-    <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"> CPython </a>
-    , <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
-    , <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
-    <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
+    <a title="Pytest Python testing framework" href="https://pytest.org"><img height=40 alt="Pytest" src="cassets/pytest.svg" /></a>
   </td>
 </tr>
 
@@ -171,16 +171,16 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
     <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"> POM.xml <img height=40 alt="XML logo" src="cassets/xml.svg" /></a>
   </td>
   <td>
-    <a title="Apache Maven" href="https://github.com/topics/maven"><img height=40 alt="Maven" src="cassets/maven.svg" /></a>
-  </td>
-  <td>   </td>
-  <td>
-    <a title="Introduction to JShell" href="https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html"> <code>JShell</code> </a>
-  </td>
-  <td>
     <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"><img height=40 alt="Adoptium Temurin JDK" src="assets/adoptium.png" /></a>
     <a title="Eclipse IDE" href="https://eclipseide.org/"><img height=40 alt="Eclipse" src="assets/eclipse.svg" /></a>
   </td>
+  <td>
+    <a title="Apache Maven" href="https://github.com/topics/maven"><img height=40 alt="Maven" src="cassets/maven.svg" /></a>
+  </td>
+  <td>
+    <a title="Introduction to JShell" href="https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html"> <code>JShell</code> </a>
+  </td>
+  <td>   </td>
 </tr>
 
 </tbody>
@@ -195,13 +195,6 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 [RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
 [RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
 
-Common tools used:
-
-* <a title="curl" href="https://curl.se/"><img height=20 alt="curl" src="assets/curl.svg" /></a> CLI tool for `GET` requests
-
-* REST Client for `POST` requests with [RFC 2616] standard \
-  vscode-extension-id: `humao.rest-client`
-
 <!--
 * httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
 
@@ -214,7 +207,7 @@ Common tools used:
 
 <thead>
 <tr>
-  <th>Core ⚙</th> <th>Server 📡</th> <th>Templating 📋</th>
+  <th>Core ⚙</th> <th>Server 📡</th> <th>Templating 📋</th> <th>Testing 🧪</th>
 </tr>
 </thead>
 
@@ -229,6 +222,17 @@ Common tools used:
   </td>
   <td>
     <a title="Jinja templating engine" href="https://jinja.palletsprojects.com/"><img height=40 alt="Jinja" src="assets/jinja.png" /></a>
+  </td>
+  <td rowspan="2">
+    <ul>
+      <li>
+        <a title="curl" href="https://curl.se/"><img height=20 alt="curl" src="assets/curl.svg" /></a> CLI tool for <code>GET</code> requests
+      </li>
+      <li>
+        REST Client for <code>POST</code> requests <br/>
+        vscode-extension-id: <code>humao.rest-client</code>
+      </li>
+    </ul>
   </td>
 </tr>
 
