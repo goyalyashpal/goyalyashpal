@@ -22,6 +22,17 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   -->
 
 
+[RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
+[RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
+
+<!--
+* httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
+
+* Thunder Client: vscode-extension-id: `rangav.vscode-thunder-client`
+ -->
+
+
+
 
 <h1 align="center">🌻🌺 Welcome to this profile 🪷🌹</h1>
 
@@ -96,244 +107,162 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 
 
 
+[streamlit]: https://github.com/topics/streamlit "Streamlit"
+[i_streamlit]: https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=streamlit "Streamlit"
+[c]: https://github.com/topics/c "C language"
+[i_c]: https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=c "C language"
+[cpp]: https://github.com/topics/cpp "C++"
+[i_cpp]: https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=cplusplus "C++++"
+[gnu]: https://www.gnu.org/software/make/ "GNU Make"
+[i_gnu]: https://img.shields.io/badge/make-A42E2B?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=gnu "GNU Make"
+[nix]: https://github.com/topics/nix "Nix package manager"
+[i_nix]: https://img.shields.io/badge/nix-5277C3?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=nixos "Nix Pkg Manager"
+[llvm]: https://github.com/topics/llvm "LLVM Compiler toolchain"
+[i_llvm]: https://img.shields.io/badge/llvm-262D3A?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=llvm "LLVM Compiler toolchain"
+[vscodium]: https://vscodium.com/ "VSCodium - Open Source Binaries of VSCode"
+[i_vscodium]: https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=vscodium "VSCodium - Open Source Binaries of VSCode"
+[python]: https://github.com/topics/python "Python"
+[i_python]: https://img.shields.io/badge/py-3776AB?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=python "Python"
+[toml]: https://toml.io/en/ "TOML"
+[i_toml]: https://img.shields.io/badge/toml-9C4121?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=toml "TOML logo"
+
+
+[mypy]: https://www.mypy-lang.org/ "mypy - Optional Static Typing for Python"
+[i_mypy]: https://img.shields.io/badge/mypy-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=mypy "mypy - Optional Static Typing for Python"
+[ruff]: https://docs.astral.sh/ruff/ "Ruff - fast Python linter"
+[i_ruff]: https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=ruff "Ruff - fast Python linter"
+[pdm]: https://pdm-project.org/latest/ "PDM a modern Python package and dependency manager"
+[i_pdm]: https://img.shields.io/badge/pdm-AC75D7?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=pdm "PDM a modern Python package and dependency manager"
+[pypi]: https://github.com/topics/pypi "PyPI Python Package Index"
+[i_pypi]: https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=pypi "PyPI Python Package Index"
+[jupyter]: https://github.com/topics/jupyter "Jupyter REPL Notebooks"
+[i_jupyter]: https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=jupyter "Jupyter REPL Notebooks"
+[pytest]: https://pytest.org "Pytest Python testing framework"
+[i_pytest]: https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=pytest "Pytest Python testing framework"
+[java]: https://github.com/topics/java "Java"
+[i_java]: https://img.shields.io/badge/java-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=java "Java"
+[adoptium]: https://github.com/topics/adoptium "Adoptium Temurin JDK"
+[i_adoptium]: https://img.shields.io/badge/adoptium-FF1464?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=eclipseadoptium "Adoptium Temurin JDK"
+[eclipse]: https://eclipseide.org/ "Eclipse IDE"
+[i_eclipse]: https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=eclipseide "Eclipse IDE"
+[maven]: https://github.com/topics/maven "Apache Maven"
+[i_maven]: https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=apachemaven "Apache Maven"
+
+
+[flask]: https://github.com/topics/flask "Flask micro web framework"
+[i_flask]: https://img.shields.io/badge/flask-F05032?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=flask "Flask micro web framework"
+[jinja]: https://jinja.palletsprojects.com/ "Jinja templating engine"
+[i_jinja]: https://img.shields.io/badge/jinja-B41717?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=jinja "Jinja templating engine"
+[curl]: https://curl.se/ "curl"
+[i_curl]: https://img.shields.io/badge/curl-073551?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=curl "curl"
+
+
+[jakarta-ee]: https://github.com/topics/jakarta-ee "Jakarta EE"
+[i_jakarta-ee]: https://img.shields.io/badge/jakarta_ee-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=jakarta-ee "Jakarta EE"
+[tomcat]: https://tomcat.apache.org/ "Apache Tomcat"
+[i_tomcat]: https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=apachetomcat "Apache Tomcat"
+[html]: https://github.com/topics/html5 "HTML5"
+[i_html]: https://img.shields.io/badge/html-E34F26?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=html5 "HTML5"
+[css]: https://github.com/topics/css3 "CSS Cascading Style Sheets"
+[i_css]: https://img.shields.io/badge/css-1572B6?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=css3 "CSS Cascading Style Sheets"
+[javascript]: https://github.com/topics/javascript "JavaScript"
+[i_javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=javascript "JavaScript"
+[firefox]: https://github.com/topics/firefox "Firefox Browser"
+[i_firefox]: https://img.shields.io/badge/firefox-000000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=firefoxbrowser "Firefox Browser"
+[chromium]: https://github.com/topics/chromium "Chromium based browsers"
+[i_chromium]: https://img.shields.io/badge/chromium-4285F4?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=googlechrome "Chromium based browsers"
+
+[mysql]: https://github.com/topics/mysql "MySQL DBMS"
+[i_mysql]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=mysql "MySQL DBMS"
+[sqlite]: https://github.com/topics/sqlite "SQLite Serverless RDBMS"
+[i_sqlite]: https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=sqlite "SQLite Serverless RDBMS"
+[json]: https://github.com/topics/json "JSON data interchange format"
+[i_json]: https://img.shields.io/badge/json-000000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=json "JSON data interchange format"
+[yaml]: https://yaml.org/ "YAML data serialization language"
+[i_yaml]: https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=yaml "YAML data serialization language"
+[xml]: https://www.w3.org/XML/ "XML serialization language"
+[i_xml]: https://img.shields.io/badge/xml-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=xml "XML serialization language"
+[jq]: https://jqlang.github.io/jq/ "jq JSON Processor"
+[i_jq]: https://img.shields.io/badge/jq-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=jq "jq JSON Processor"
+[nushell]: https://www.nushell.sh/ "Nushell"
+[i_nushell]: https://img.shields.io/badge/nushell-4E9A06?style=for-the-badge&logoColor=FFF&logo=nushell "Nushell"
+[latex]: https://github.com/topics/latex "LaTeX document preparation system"
+[i_latex]: https://img.shields.io/badge/latex-008080?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=latex "LaTeX document preparation system"
+[typst]: https://typst.app/ "Typst: Compose papers faster"
+[i_typst]: https://img.shields.io/badge/typst-239DAD?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=typst "Typst: Compose papers faster"
+[asciidoctor]: https://asciidoctor.org/ "Asciidoctor - A fast, open source, Ruby-based text publishing tool"
+[i_asciidoctor]: https://img.shields.io/badge/asciidoctor-E40046?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=asciidoctor "Asciidoctor - A fast, open source, Ruby-based text publishing tool"
+[markdown]: https://github.com/topics/markdown "Markdown plaintext formatting to HTML conversion"
+[i_markdown]: https://img.shields.io/badge/markdown-000000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=markdown "Markdown plaintext formatting to HTML conversion"
+[texstudio]: https://www.texstudio.org/ "TeXstudio - A LaTeX editor"
+[i_texstudio]: https://img.shields.io/badge/texstudio-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=texstudio "TeXstudio - A LaTeX editor"
+[miktex]: https://miktex.org/ "MiKTeX - TeX/LaTeX distribution for Windows"
+[i_miktex]: https://img.shields.io/badge/miktex-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=miktex "MiKTeX - TeX/LaTeX distribution for Windows"
+[linux]: https://github.com/topics/linux "linux"
+[i_linux]: https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=linux "linux"
+
+
+[bash]: https://github.com/topics/bash "bash"
+[i_bash]: https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=gnubash "Bash"
+[git]: https://github.com/topics/git "git"
+[i_git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=git "Git"
+[conv_commits]: https://www.conventionalcommits.org/en/v1.0.0/ "Conventional Commits"
+[i_conv_commits]: https://img.shields.io/badge/conv_commits-FE5196?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=conventionalcommits "Conventional Commits"
+
+
+
+[LLDB]: https://lldb.llvm.org/ "🐛 LLDB"
+[Cling]: https://rawcdn.githack.com/root-project/cling/master/www/index.html "Cling - ROOT https://root.cern/cling/"
+[pyproject.toml]: https://packaging.python.org/en/latest/specifications/pyproject-toml/ "Python Project PyProject.TOML Config File"
+[CPython]: https://www.python.org/download/alternatives/ "CPython Python Implementation"
+[Pdb+]: https://pypi.org/project/pdbplus/ "pdbplus · PyPI"
+[POM.xml]: https://maven.apache.org/pom.html "Maven – POM Reference"
+[JShell]: https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html "Introduction to JShell"
+[yq]: https://mikefarah.gitbook.io/yq "yq YAML Processor"
+[Tex Live]: https://tug.org/texlive/ "TeX Live - TeX Users Group"
+[Jupyter (IBash)]: https://pypi.org/project/bash_kernel/ "bash_kernel · PyPI"
+[nix eval]: https://nix.dev/tutorials/nix-language.html#interactive-evaluation "Nix language basics — nix.dev documentation"
+
+
 
 ### General Purpose Programming:
 
 * Mainly logic, and CLI applications.
-* Occassionally done GUI: Swing in Java, Streamlit in python.
+* Occassionally done GUI: Swing in Java, [![i_streamlit]][streamlit] in python.
 
 
-<table>
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
+<!-- href="https://pip.pypa.io/en/stable/reference/build-system/pyproject-toml/" -->
 
-<thead>
-<tr>
-  <th>Core ⚙</th> <th>Build Spec 🏗</th> <th>Dev Tools 🛠</th> <th>Deps ⏬🧳</th> <th>Proto 🏃‍♀️‍➡️</th> <th>Test ✔</th>
-</tr>
-</thead>
 
-<tbody>
-
-<tr>
-  <td>
-    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"> -->
-    <a title="C language" href="https://github.com/topics/c"><img height=40 alt="C" src="assets/c.svg" /></a>
-    <a title="C++" href="https://github.com/topics/cpp"><img height=40 alt="C++" src="assets/cpp.svg" /></a>
-
-  </td>
-  <td> Makefile,
-    <a title="GNU Make" href="https://www.gnu.org/software/make/"><img height=40 alt="Make" src="assets/gnu.png" /></a>
-    <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
-  </td>
-  <td>
-    <a title="🐛 LLDB" href="https://lldb.llvm.org/"> <code>LLDB</code> </a>
-    , <a title="LLVM Compiler toolchain" href="https://github.com/topics/llvm"><img height=40 alt="LLVM" src="assets/llvm.png" /></a>
-    <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"><img height=40 alt="VSCodium" src="assets/vscodium.svg" /></a>
-  </td>
-  <td>   </td>
-  <td>
-    <a title="Cling - ROOT https://root.cern/cling/" href="https://rawcdn.githack.com/root-project/cling/master/www/index.html"> <code>Cling</code> </a>
-  </td>
-  <td>   </td>
-</tr>
-
-<tr>
-  <td>
-    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="cassets/python.svg" /></a>
-  </td>
-  <td>
-    <a title="Python Project PyProject.TOML Config File" href="https://packaging.python.org/en/latest/specifications/pyproject-toml/"> pyproject.toml <img height=30 alt="TOML logo" src="cassets/toml.svg" /></a>
-    <!-- href="https://pip.pypa.io/en/stable/reference/build-system/pyproject-toml/" -->
-    , <a title="Nix package manager" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
-  </td>
-  <td>
-    <!-- <a title="CPython Python Implementation" href="https://www.python.org/download/alternatives/"> CPython </a> -->
-    <a title="pdbplus · PyPI" href="https://pypi.org/project/pdbplus/">Pdb+</a>
-    , <a title="mypy - Optional Static Typing for Python" href="https://www.mypy-lang.org/"><img height=40 alt="mypy" src="cassets/mypy.svg" /></a>
-    <a title="Ruff - fast Python linter" href="https://docs.astral.sh/ruff/"><img height=40 alt="Ruff" src="assets/ruff.png" /></a>
-  </td>
-  <td>
-    <a title="PDM a modern Python package and dependency manager" href="https://pdm-project.org/latest/"><img height=40 alt="PDM" src="assets/pdm.png" /></a>
-    <!-- <a title="PyPI Python Package Index" href="https://github.com/topics/pypi"><img height=40 alt="PyPI" src="assets/pypi.svg" /></a> -->
-  </td>
-  <td>
-    <a title="Jupyter REPL Notebooks" href="https://github.com/topics/jupyter"><img height=40 alt="Jupyter" src="assets/jupyter-notebook.png" /></a>
-  </td>
-  <td>
-    <a title="Pytest Python testing framework" href="https://pytest.org"><img height=40 alt="Pytest" src="cassets/pytest.svg" /></a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a title="Java" href="https://github.com/topics/java"><img height=40 alt="Java" src="assets/java.svg" /></a>
-  </td>
-  <td>
-    <a title="Maven – POM Reference" href="https://maven.apache.org/pom.html"> POM.xml <img height=30 alt="XML logo" src="cassets/xml.svg" /></a>
-  </td>
-  <td>
-    <a title="Adoptium Temurin JDK" href="https://github.com/topics/adoptium"><img height=40 alt="Adoptium Temurin JDK" src="assets/adoptium.png" /></a>
-    <a title="Eclipse IDE" href="https://eclipseide.org/"><img height=40 alt="Eclipse" src="assets/eclipse.svg" /></a>
-  </td>
-  <td>
-    <a title="Apache Maven" href="https://github.com/topics/maven"><img height=40 alt="Maven" src="cassets/maven.svg" /></a>
-  </td>
-  <td>
-    <a title="Introduction to JShell" href="https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html"> <code>JShell</code> </a>
-  </td>
-  <td>   </td>
-</tr>
-
-</tbody>
-
-</table>
+| Core ⚙  | Build Spec 🏗  | Dev Tools 🛠  | Proto 🏃‍♀️‍➡️  | Test ✔
+|--  |--  |--  |--  |--
+| [![i_c]][c] [![i_cpp]][cpp]  |  Makefile, [![i_gnu]][gnu] [![i_nix]][nix]  | [LLDB] , [![i_llvm]][llvm] [![i_vscodium]][vscodium]  | [Cling]  |
+| [![i_python]][python]  | [pyproject.toml] , [![i_pdm]][pdm] [![i_nix]][nix] <!-- [![i_pypi]][pypi] -->  | <!-- [CPython] --> [Pdb+] , [![i_mypy]][mypy] [![i_ruff]][ruff]  | [![i_jupyter]][jupyter]  | [![i_pytest]][pytest]
+| [![i_java]][java]  | [POM.xml] , [![i_maven]][maven]  | [![i_adoptium]][adoptium] [![i_eclipse]][eclipse]  | [JShell]  |
 
 
 
 
 ### Server-Side Programming:
 
-[RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
-[RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
-
-<!--
-* httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
-
-* Thunder Client: vscode-extension-id: `rangav.vscode-thunder-client`
- -->
-
-
-
-<table>
-
-<thead>
-<tr>
-  <th>Core ⚙</th> <th>Server 📡</th> <th>Templating 📋</th> <th>Testing 🧪</th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-  <td>
-    <a title="Python" href="https://github.com/topics/python"><img height=40 alt="Python" src="cassets/python.svg" /></a>
-  </td>
-  <td>
-    <a title="Flask micro web framework" href="https://github.com/topics/flask"><img height=40 alt="Flask" src="assets/flask.png" /></a>
-  </td>
-  <td>
-    <a title="Jinja templating engine" href="https://jinja.palletsprojects.com/"><img height=40 alt="Jinja" src="assets/jinja.png" /></a>
-  </td>
-  <td rowspan="2">
-    <ul>
-      <li>
-        <a title="curl" href="https://curl.se/"><img height=20 alt="curl" src="assets/curl.svg" /></a> CLI tool for <code>GET</code> requests
-      </li>
-      <li>
-        REST Client for <code>POST</code> requests <br/>
-        vscode-extension-id: <code>humao.rest-client</code>
-      </li>
-    </ul>
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <a title="Java" href="https://github.com/topics/java"><img height=40 alt="Java" src="assets/java.svg" /></a>
-    <a title="Jakarta EE" href="https://github.com/topics/jakarta-ee"><img height=40 alt="Jakarta EE" src="cassets/jakarta-ee.svg" /></a>
-  </td>
-  <td>
-    <a title="Apache Tomcat" href="https://tomcat.apache.org/"><img height=40 alt="Tomcat" src="cassets/tomcat.svg" /></a>
-  </td>
-  <td>
-  </td>
-</tr>
-
-</tbody>
-
-</table>
-
+| Core ⚙  | Server 📡  | Templating 📋  | Testing 🧪
+|--  |--  |--  |--
+| [![i_python]][python]  | [![i_flask]][flask]  | [![i_jinja]][jinja]  <td rowspan="2"> <ul> <li> [![i_curl]][curl] CLI tool for <code>GET</code> requests </li> <li> REST Client for <code>POST</code> requests <br/> vscode-extension-id: <code>humao.rest-client</code> </li> </ul>
+| [![i_java]][java] [![i_jakarta-ee]][jakarta-ee]  | [![i_tomcat]][tomcat]  |
 
 
 
 ### Domain Specific Technologies:
 
-<table>
+|  | Core ⚙  | Tools 🛠🧰
+|--  |--  |--
+| Client-side WebApps  | [![i_html]][html] [![i_css]][css] [![i_javascript]][javascript]  | [![i_firefox]][firefox] [![i_chromium]][chromium] [![i_vscodium]][vscodium]
+| DBMS Database  | [![i_mysql]][mysql] [![i_sqlite]][sqlite]  |  Shells, MySQL Workbench
+| Flat-file semi-structured DB  | [![i_json]][json] [![i_yaml]][yaml] [![i_xml]][xml]  | [yq] , [![i_jq]][jq] [![i_nushell]][nushell]
+| Markup  | [![i_latex]][latex] [![i_typst]][typst] [![i_asciidoctor]][asciidoctor] [![i_markdown]][markdown]  | [Tex Live] , [![i_texstudio]][texstudio] [![i_miktex]][miktex]
+| DevOps  | [![i_linux]][linux] [![i_nix]][nix] [![i_bash]][bash] [![i_git]][git] [![i_conv_commits]][conv_commits]  | [Jupyter (IBash)] , [nix eval]
 
-<thead>
-<tr>
-  <th></th> <th>Core ⚙</th> <th>Tools 🛠🧰</th>
-</tr>
-</thead>
 
-<tbody>
+<!-- , <a title="nix eval - Nix Reference Manual" href="https://nix.dev/manual/nix/latest/command-ref/new-cli/nix3-eval.html">nix eval</a> -->
 
-<tr>
-  <td> Client-side WebApps  </td>
-  <td>
-    <a title="HTML5" href="https://github.com/topics/html5"><img height=40 alt="HTML5" src="assets/html.png" /></a>
-    <a title="CSS Cascading Style Sheets" href="https://github.com/topics/css3"><img height=40 alt="CSS3" src="assets/css.png" /></a>
-    <a title="JavaScript" href="https://github.com/topics/javascript"><img height=40 alt="JavaScript" src="assets/javascript.png" /></a>
-  </td>
-  <td>
-    <a title="Firefox Browser" href="https://github.com/topics/firefox"><img height=40 alt="Firefox" src="assets/firefox.png" /></a>
-    <a title="Chromium based browsers" href="https://github.com/topics/chromium"><img height=40 alt="Chromium" src="assets/chromium.png" /></a>
-    <a title="VSCodium - Open Source Binaries of VSCode" href="https://vscodium.com/"><img height=40 alt="VSCodium" src="assets/vscodium.svg" /></a>
-  </td>
-</tr>
-
-<tr>
-  <td> DBMS Database  </td>
-  <td>
-    <a title="MySQL DBMS" href="https://github.com/topics/mysql"><img height=40 alt="MySQL" src="assets/mysql.svg" /></a>
-    <a title="SQLite Serverless RDBMS" href="https://github.com/topics/sqlite"><img height=40 alt="SQLite" src="assets/sqlite.png" /></a>
-  </td>
-  <td> Shells, MySQL Workbench  </td>
-</tr>
-
-<tr>
-  <td> Flat-file semi-structured DB  </td>
-  <td>
-    <a title="JSON data interchange format" href="https://github.com/topics/json"><img height=40 alt="JSON" src="assets/json.png" /></a>
-    <a title="YAML data serialization language" href="https://yaml.org/"><img height=40 alt="YAML" src="assets/yaml.svg" /></a>
-    <a title="XML eXtensible Markup Language" href="https://www.w3.org/XML/"><img height=40 alt="XML" src="cassets/xml.svg" /></a>
-  </td>
-  <td>
-    <a title="yq YAML Processor" href="https://mikefarah.gitbook.io/yq"> <code>yq</code> </a>
-    , <a title="jq JSON Processor" href="https://jqlang.github.io/jq/"><img height=40 alt="jq" src="cassets/jq.svg" /></a>
-    <a title="Nushell" href="https://www.nushell.sh/"><img height=40 alt="Nushell" src="assets/nushell.png" /></a>
-  </td>
-</tr>
-
-<tr>
-  <td> Markup  </td>
-  <td>
-    <a title="LaTeX document preparation system" href="https://github.com/topics/latex"><img height=40 alt="LaTeX" src="cassets/latex.svg" /></a>
-    <a title="Typst: Compose papers faster" href="https://typst.app/"><img height=40 alt="Typst" src="cassets/typst.svg" /></a>
-    <a title="Asciidoctor - A fast, open source, Ruby-based text publishing tool" href="https://asciidoctor.org/"><img height=40 alt="AsciiDoc" src="assets/asciidoctor.svg" /></a>
-    <a title="Markdown plaintext formatting to HTML conversion" href="https://github.com/topics/markdown"><img height=40 alt="Markdown" src="assets/markdown.svg" /></a>
-  </td>
-  <td>
-    <a title="TeX Live - TeX Users Group" href="https://tug.org/texlive/">Tex Live</a>
-    , <a title="TeXstudio - A LaTeX editor" href="https://www.texstudio.org/"><img height=40 alt="TeXStudio" src="assets/texstudio.png" /></a>
-    <a title="MiKTeX - TeX/LaTeX distribution for Windows" href="https://miktex.org/"><img height=40 alt="MiKTeX" src="assets/miktex.svg" /></a>
-  </td>
-</tr>
-
-<tr>
-  <td> DevOps  </td>
-  <td>
-    <a title="linux" href="https://github.com/topics/linux"><img height=40 alt="Linux" src="assets/linux.png" /></a>
-    <a title="nix" href="https://github.com/topics/nix"><img height=40 alt="Nix Pkg Manager" src="assets/nix.png" /></a>
-    <a title="bash" href="https://github.com/topics/bash"><img height=40 alt="Bash" src="assets/bash.svg" /></a>
-    <a title="git" href="https://github.com/topics/git"><img height=40 alt="Git" src="assets/git.png" /></a>
-  </td>
-  <td>
-    <a title="bash_kernel · PyPI" href="https://pypi.org/project/bash_kernel/">Jupyter (IBash)</a>
-    <!-- , <a title="nix eval - Nix Reference Manual" href="https://nix.dev/manual/nix/latest/command-ref/new-cli/nix3-eval.html">nix eval</a> -->
-    , <a title="Nix language basics — nix.dev documentation" href="https://nix.dev/tutorials/nix-language.html#interactive-evaluation"> <code>nix eval</code></a>
-  </td>
-</tr>
-
-</tbody>
-
-</table>
