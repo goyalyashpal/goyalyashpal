@@ -181,7 +181,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
 [yaml]: https://yaml.org/ "YAML data serialization language"
 [i_yaml]: https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=yaml "YAML data serialization language"
 [xml]: https://www.w3.org/XML/ "XML serialization language"
-[i_xml]: https://img.shields.io/badge/xml-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=xml "XML serialization language"
+[i_xml]: https://img.shields.io/badge/xml-005FAD?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=xml "XML serialization language"
 [jq]: https://jqlang.github.io/jq/ "jq JSON Processor"
 [i_jq]: https://img.shields.io/badge/jq-000?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=jq "jq JSON Processor"
 [nushell]: https://www.nushell.sh/ "Nushell"
