@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png
   <img width=300px
     alt="Profile's Github Contribution Stats"
     style="vertical-align: middle; margin:5px"
-    src="https://github-readme-stats.vercel.app/api?username=goyalyashpal&show_icons=true&locale=en&show=prs_merged&hide=stars,prs&hide_rank=true&cache_seconds=86400&theme=onedark"
+    src="https://github-readme-stats.vercel.app/api?username=goyalyashpal&show_icons=true&locale=en&show=prs_merged,discussions_started&hide=stars,prs&hide_rank=true&cache_seconds=86400&theme=onedark"
     />
 </a>
 &nbsp;
