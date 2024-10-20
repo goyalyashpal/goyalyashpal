@@ -75,14 +75,14 @@ GitHub Streak Stats,width=372]]
 :i_nix: image:{imgb}nix-5277C3?logo=nixos{badge_params}[title="Nix Pkg Manager"]
 :i_llvm: image:{imgb}llvm-262D3A?logo=llvm{badge_params}[title="LLVM Compiler toolchain"]
 :i_vscodium: image:{imgb}vscodium-2F80ED?logo=vscodium{badge_params}[title="VSCodium - Open Source Binaries of VSCode"]
-:i_python: image:{imgb}py-3776AB?logo=python{badge_params}[title="Python"]
+:i_python: image:{imgb}python-3776AB?logo=python{badge_params}[title="Python"]
 :i_pdm: image:{imgb}pdm-AC75D7?logo=pdm{badge_params}[title="PDM a modern Python package and dependency manager"]
 :i_nix: image:{imgb}nix-5277C3?logo=nixos{badge_params}[title="Nix Pkg Manager"]
 :i_mypy: image:{imgb}mypy-000?logo=mypy{badge_params}[title="mypy - Optional Static Typing for Python"]
 :i_ruff: image:{imgb}ruff-D7FF64?logo=ruff{badge_params}[title="Ruff - fast Python linter"]
 :i_jupyter: image:{imgb}jupyter-F37626?logo=jupyter{badge_params}[title="Jupyter REPL Notebooks"]
 :i_pytest: image:{imgb}pytest-0A9EDC?logo=pytest{badge_params}[title="Pytest Python testing framework"]
-:i_java: image:{imgb}java-000?logo=java{badge_params}[title="Java"]
+:i_java: image:{imgb}java-007396?logo=java{badge_params}[title="Java"]
 :i_maven: image:{imgb}maven-C71A36?logo=apachemaven{badge_params}[title="Apache Maven"]
 :i_adoptium: image:{imgb}adoptium-FF1464?logo=eclipseadoptium{badge_params}[title="Adoptium Temurin JDK"]
 :i_eclipse: image:{imgb}eclipse-2C2255?logo=eclipseide{badge_params}[title="Eclipse IDE"]
@@ -132,13 +132,16 @@ GitHub Streak Stats,width=372]]
 * Mainly logic, and CLI applications.
 * Occassionally done GUI: Swing in Java, {ght}streamlit[{i_streamlit}] in python.
 
+// |Core ⚙ 
+
 [width="100%",cols="~*5",options="header",]
 |===
-|Core ⚙ |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️‍➡️ |Test ✔
+| |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️‍➡️ |Test ✔
 
-|{ght}c[{i_c}]
+5+a|{ght}c[{i_c}]
 {ght}cpp[{i_cpp}]
-|Makefile,
+
+||Makefile,
 https://www.gnu.org/software/make/[{i_gnu}]
 {ght}nix[{i_nix}]
 |https://lldb.llvm.org/[LLDB] ,
@@ -147,8 +150,9 @@ https://vscodium.com/[{i_vscodium}]
 |https://rawcdn.githack.com/root-project/cling/master/www/index.html[Cling]
 |
 
-|{ght}python[{i_python}]
-|https://packaging.python.org/en/latest/specifications/pyproject-toml/[pyproject.toml]
+5+a|{ght}python[{i_python}]
+
+||https://packaging.python.org/en/latest/specifications/pyproject-toml/[pyproject.toml]
 ,
 https://pdm-project.org/latest/[{i_pdm}]
 {ght}nix[{i_nix}]
@@ -158,8 +162,9 @@ https://docs.astral.sh/ruff/[{i_ruff}]
 |{ght}jupyter[{i_jupyter}]
 |https://pytest.org[{i_pytest}]
 
-|{ght}java[{i_java}]
-|https://maven.apache.org/pom.html[POM.xml] ,
+5+a|{ght}java[{i_java}]
+
+||https://maven.apache.org/pom.html[POM.xml] ,
 {ght}maven[{i_maven}]
 |{ght}adoptium[{i_adoptium}]
 https://eclipseide.org/[{i_eclipse}]
@@ -169,19 +174,18 @@ https://eclipseide.org/[{i_eclipse}]
 
 === Server-Side Programming:
 
-[width="100%",cols="~*4",options="header",]
+[width="100%",cols="~*3",options="header",]
 |===
-|Core ⚙ |Server 📡 |Templating 📋 |Testing 🧪
+|Core ⚙ |Server 📡 |Templating 📋
 
 |{ght}python[{i_python}]
 |{ght}flask[{i_flask}]
 |https://jinja.palletsprojects.com/[{i_jinja}]
-|
 
 |{ght}java[{i_java}]
 {ght}jakarta-ee[{i_jakarta-ee}]
 |https://tomcat.apache.org/[{i_tomcat}]
-| |
+| 
 |===
 
 === Domain Specific Technologies:
