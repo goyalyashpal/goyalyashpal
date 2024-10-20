@@ -27,7 +27,7 @@
 
 
 
-== 🌻🌺 Welcome to this profile 🪷🌹
+= 🌻🌺 Welcome to this profile 🪷🌹
 
 == Github Public Stats for this profile
 
@@ -132,7 +132,7 @@ GitHub Streak Stats,width=372]]
 * Mainly logic, and CLI applications.
 * Occassionally done GUI: Swing in Java, {ght}streamlit[{i_streamlit}] in python.
 
-[width="100%",cols="20%,20%,20%,20%,20%",options="header",]
+[width="100%",cols="~*5",options="header",]
 |===
 |Core ⚙ |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️‍➡️ |Test ✔
 
@@ -169,7 +169,7 @@ https://eclipseide.org/[{i_eclipse}]
 
 === Server-Side Programming:
 
-[width="100%",cols="25%,25%,25%,25%",options="header",]
+[width="100%",cols="~*4",options="header",]
 |===
 |Core ⚙ |Server 📡 |Templating 📋 |Testing 🧪
 
@@ -186,7 +186,7 @@ https://eclipseide.org/[{i_eclipse}]
 
 === Domain Specific Technologies:
 
-[width="100%",cols="34%,33%,33%",options="header",]
+[width="100%",cols="~*3",options="header",]
 |===
 | |Core ⚙ |Tools 🛠🧰
 |Client-side WebApps
