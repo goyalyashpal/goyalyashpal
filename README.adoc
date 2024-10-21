@@ -65,7 +65,7 @@ GitHub Streak Stats,width=372]]
 :ght: https://github.com/topics/
 :imgb: https://img.shields.io/badge/
 :logobadge_param: ?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=
-:badge_params: &style=for-the-badge&logoSize=auto&logoColor=FFF
+:badge_params: &style=flat&logoSize=auto&logoColor=FFF
 
 
 :i_streamlit: image:{imgb}streamlit-FF4B4B?logo=streamlit{badge_params}[title="Streamlit"]
@@ -110,7 +110,8 @@ GitHub Streak Stats,width=372]]
 :i_yaml: image:{imgb}yaml-CB171E?logo=yaml{badge_params}[title="YAML data serialization language"]
 :i_xml: image:{imgb}xml-005FAD?logo=xml{badge_params}[title="XML serialization language"]
 :i_jq: image:{imgb}jq-000?logo=jq{badge_params}[title="jq JSON Processor"]
-:i_nushell: image:{imgb}nushell-4E9A06?style=for-the-badge&logoColor=FFF&logo=nushell[i_nushell,title="Nushell"]
+// :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params}[i_nushell,title="Nushell"]
+:i_nushell: image:{imgb}nushell-4E9A06?{badge_params}[i_nushell,title="Nushell"]
 
 
 :i_latex: image:{imgb}latex-008080?logo=latex{badge_params}[title="LaTeX document preparation system"]
