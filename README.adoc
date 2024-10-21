@@ -34,11 +34,15 @@ profile & that too, just the public contributions.
 
 * Upvote this {user-lang-info}[request to github] to see the language-wise distribution of my commits 😃
 
-:trophy-params: &username=goyalyashpal&title=-Stars,-Reviews,-Followers&column=-1&margin-w=25&margin-h=25&theme=onedark
-:profile-stat-params: &username=goyalyashpal&show_icons=true&locale=en&show=prs_merged,discussions_started&hide=stars,prs&hide_rank=true&cache_seconds=86400&theme=onedark
+:trophy-params: &username=goyalyashpal&title=-Stars%2C-Reviews%2C-Followers&column=-1&margin-w=25&margin-h=25&theme=onedark
+:profile-stat-params: &username=goyalyashpal&show_icons=true&locale=en&show=prs_merged%2Cdiscussions_started&hide=stars%2Cprs&hide_rank=true&cache_seconds=86400&theme=onedark
 :streak-stat-params: &user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=450px
 
+// [.center.text-center]
 https://github.com/ryo-ma/github-profile-trophy[image:https://github-profile-trophy.vercel.app/?{trophy-params}[title="goyalyashpal"]]
+https://github-readme-stats.vercel.app[image:https://github-readme-stats.vercel.app/api?{profile-stat-params}[title="Profile's Github Contribution Stats",width=300]]
+https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuapp.com?{streak-stat-params}[title="Profile's GitHub Streak Stats",width=372]]
+
 
 
 // * The width of the github profile readme is 780px
@@ -46,9 +50,6 @@ https://github.com/ryo-ma/github-profile-trophy[image:https://github-profile-tro
 // * 372 + 300 = 672px in image
 // Default Streak Stats width is 495px
 
-https://github-readme-stats.vercel.app[image:https://github-readme-stats.vercel.app/api?{profile-stat-params}[title="Profile's Github Contribution Stats",width=300]]
-
-https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuapp.com?{streak-stat-params}[title="Profile's GitHub Streak Stats",width=372]]
 
 
 
