@@ -129,8 +129,9 @@ image:{skic}vscodium,eclipse[]
 :i_nushell: image:{imgb}nushell-4E9A06?{badge_params}[title="Nushell"]
 // :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params}[i_nushell,title="Nushell"]
 
-:i_yq: image:{imgb}yq-000?logo=jq{badge_params}[title="yq: jq inspired Processor for YAML & others"]
+:i_yq: image:{imgb}yq-000?{badge_params}[title="yq: jq inspired Processor for YAML & others"]
 :i_jq: image:{imgb}jq-000?logo=jq{badge_params}[title="jq JSON Processor"]
+:i_csv: image:{imgb}csv-000?{badge_params}[title="CSV"]
 
 
 :i_latex: image:{imgb}latex-008080?logo=latex{badge_params}[title="LaTeX document preparation system"]
@@ -255,9 +256,10 @@ https://vscodium.com/[{i_vscodium}]
 {ght}sqlite[{i_sqlite}]
 |Shells, MySQL Workbench
 
-|Flat-file semi-structured DB
-|{ght}json[{i_json}]
+|Flat-file DB
+|{ght}csv[{i_csv}]
 https://yaml.org/[{i_yaml}]
+{ght}json[{i_json}]
 https://www.w3.org/XML/[{i_xml}]
 |https://mikefarah.gitbook.io/yq[{i_yq}] 
 // ,
