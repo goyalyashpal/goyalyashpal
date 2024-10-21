@@ -135,7 +135,7 @@ image:{skic}vscodium,eclipse[]
 
 :i_latex: image:{imgb}latex-008080?logo=latex{badge_params}[title="LaTeX document preparation system"]
 :i_typst: image:{imgb}typst-239DAD?logo=typst{badge_params}[title="Typst: Compose papers faster"]
-:i_asciidoctor: image:{imgb}asciidoctor-E40046?logo=asciidoctor{badge_params}[title="Asciidoctor - A fast open source Ruby-based text publishing tool"]
+:i_asciidoctor: image:{imgb}asciidoc-E40046?logo=asciidoctor{badge_params}[title="Asciidoctor - A fast open source Ruby-based text publishing tool"]
 :i_markdown: image:{imgb}markdown-000000?logo=markdown{badge_params}[title="Markdown plaintext formatting to HTML conversion"]
 
 :i_texstudio: image:{imgb}texstudio-3b3ed0?logo=texstudio{badge_params}[title="TeXstudio - A LaTeX editor"]
