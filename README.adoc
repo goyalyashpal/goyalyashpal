@@ -65,7 +65,7 @@ GitHub Streak Stats,width=372]]
 :ght: https://github.com/topics/
 :imgb: https://img.shields.io/badge/
 :logobadge_param: ?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=
-:badge_params: &style=flat&logoSize=auto&logoColor=FFF
+:badge_params: &style=for-the-badge&logoSize=auto&logoColor=FFF
 
 
 :i_streamlit: image:{imgb}streamlit-FF4B4B?logo=streamlit{badge_params}[title="Streamlit"]
@@ -131,6 +131,8 @@ GitHub Streak Stats,width=372]]
 
 
 === General Purpose Programming:
+
+NOTE: This table is intended to be viewed ONLY on landscape orientation.
 
 * Mainly logic, and CLI applications.
 * Occassionally done GUI: Swing in Java, {ght}streamlit[{i_streamlit}] in python.
