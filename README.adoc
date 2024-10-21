@@ -65,7 +65,7 @@ image:{skic}mysql[] {sep}
 image:{skic}flask,html,css,javascript[] {sep}
 image:{skic}latex,typst,asciidoc,markdown[] {sep}
 
-image:{skic}bash,linux,nix[] {sep}
+image:{skic}bash,linux,nix,git[] {sep}
 image:{skic}vscodium,eclipse[]
 
 
@@ -143,7 +143,11 @@ image:{skic}vscodium,eclipse[]
 
 === General Purpose Programming:
 
-NOTE: This table is intended to be viewed ONLY on landscape orientation.
+[NOTE]
+====
+The tables are intended to be viewed ONLY on landscape orientation. +
+Any suggestions to improve these are welcome.
+====
 
 * Mainly logic, and CLI applications.
 * Occassionally done GUI: Swing in Java, {ght}streamlit[{i_streamlit}] in python.
