@@ -13,16 +13,7 @@
 //   table i { font-size: xxx-large; vertical-align: middle; }
 // </style>
 
-
 // <i class="devicon-c-plain colored"></i> <i class="devicon-cplusplus-plain colored"></i>
-
-
-
-// [RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
-// [RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
-
-// * httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
-// * Thunder Client: vscode-extension-id: `rangav.vscode-thunder-client`
 
 
 
@@ -61,6 +52,24 @@ GitHub Streak Stats,width=372]]
 
 
 == Tech Stacks I've Worked With:
+
+=== Summary
+
+:skic: https://skillicons.dev/icons?i=
+:sep: {nbsp}{nbsp}{sp}
+
+image:{skic}c,cpp,python,java[] {sep}
+image:{skic}maven[] {sep}
+image:{skic}mysql[] {sep}
+
+image:{skic}flask,html,css,javascript[] {sep}
+image:{skic}latex,typst,asciidoc,markdown[] {sep}
+
+image:{skic}bash,linux,nix[] {sep}
+image:{skic}vscodium,eclipse[]
+
+
+
 
 :ght: https://github.com/topics/
 :imgb: https://img.shields.io/badge/
@@ -130,6 +139,8 @@ GitHub Streak Stats,width=372]]
 
 
 
+
+
 === General Purpose Programming:
 
 NOTE: This table is intended to be viewed ONLY on landscape orientation.
@@ -141,7 +152,7 @@ NOTE: This table is intended to be viewed ONLY on landscape orientation.
 
 [width="100%",cols="~*5",options="header",]
 |===
-| |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️‍➡️ |Test ✔
+| |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️ |Test ✔
 
 5+a|{ght}c[{i_c}]
 {ght}cpp[{i_cpp}]
@@ -157,7 +168,7 @@ https://vscodium.com/[{i_vscodium}]
 
 5+a|{ght}python[{i_python}]
 
-||https://packaging.python.org/en/latest/specifications/pyproject-toml/[py project toml]
+||https://packaging.python.org/en/latest/specifications/pyproject-toml/[pyproject.toml]
 ,
 https://pdm-project.org/latest/[{i_pdm}]
 {ght}nix[{i_nix}]
@@ -169,7 +180,7 @@ https://docs.astral.sh/ruff/[{i_ruff}]
 
 5+a|{ght}java[{i_java}]
 
-||https://maven.apache.org/pom.html[POM xml] ,
+||https://maven.apache.org/pom.html[pom.xml] ,
 {ght}maven[{i_maven}]
 |{ght}adoptium[{i_adoptium}]
 https://eclipseide.org/[{i_eclipse}]
@@ -177,7 +188,17 @@ https://eclipseide.org/[{i_eclipse}]
 |
 |===
 
+
+
+
 === Server-Side Programming:
+
+// [RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
+// [RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
+
+// * httpYac - Rest Client: vscode-extension-id: `anweber.vscode-httpyac`
+// * Thunder Client: vscode-extension-id: `rangav.vscode-thunder-client`
+
 
 [width="100%",cols="~*3",options="header",]
 |===
@@ -192,6 +213,9 @@ https://eclipseide.org/[{i_eclipse}]
 |https://tomcat.apache.org/[{i_tomcat}]
 | 
 |===
+
+
+
 
 === Domain Specific Technologies:
 
