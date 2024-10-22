@@ -245,22 +245,23 @@ https://eclipseide.org/[{i_eclipse}]
 [width="100%",cols="~*3",options="header",]
 |===
 | |Core ⚙ |Tools 🛠🧰
-|Client-side WebApps
 
-|{ght}html5[{i_html}]
+3+|Client-side WebApps
+
+| |{ght}html5[{i_html}]
 {ght}css3[{i_css}]
 {ght}javascript[{i_javascript}]
 |{ght}firefox[{i_firefox}]
 {ght}chromium[{i_chromium}]
 https://vscodium.com/[{i_vscodium}]
 
-|DBMS Database
-|{ght}mysql[{i_mysql}]
+3+|DBMS Database
+| |{ght}mysql[{i_mysql}]
 {ght}sqlite[{i_sqlite}]
 |Shells, MySQL Workbench
 
-|Flat-file DB
-|{ght}csv[{i_csv}]
+3+|Flat-file DB
+| |{ght}csv[{i_csv}]
 https://yaml.org/[{i_yaml}]
 {ght}json[{i_json}]
 https://www.w3.org/XML/[{i_xml}]
@@ -270,8 +271,8 @@ https://jqlang.github.io/jq/[{i_jq}]
 https://www.nushell.sh/[{i_nushell}]
 
 
-|Markup
-|{ght}latex[{i_latex}]
+3+|Markup
+| |{ght}latex[{i_latex}]
 https://typst.app/[{i_typst}]
 https://asciidoctor.org/[{i_asciidoctor}]
 {ght}markdown[{i_markdown}]
@@ -279,8 +280,8 @@ https://asciidoctor.org/[{i_asciidoctor}]
 https://www.texstudio.org/[{i_texstudio}]
 https://miktex.org/[{i_miktex}]
 
-|DevOps
-|{ght}linux[{i_linux}]
+3+|DevOps
+| |{ght}linux[{i_linux}]
 {ght}nix[{i_nix}]
 {ght}bash[{i_bash}]
 {ght}git[{i_git}]
