@@ -74,11 +74,14 @@ a| https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuap
 :logobadge_param: ?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=
 :badge_params: &style=for-the-badge&logoSize=auto&logoColor=FFF
 :badge_params_nosize: &style=for-the-badge&logoColor=FFF
-:badge_params_nologcol: &style=for-the-badge&logoSize=auto
+:badge_params_logcoldark: &style=for-the-badge&logoSize=auto&logoColor=333
 
 
-:i_ruff: image:{imgb}ruff-D7FF64?logo=ruff&logoColor=333{badge_params_nologcol}[title="Ruff - fast Python linter"]
-:i_tomcat: image:{imgb}tomcat-F8DC75?logo=apachetomcat&logoColor=333{badge_params_nologcol}[title="Apache Tomcat"]
+:i_ruff: image:{imgb}ruff-D7FF64?logo=ruff{badge_params_logcoldark}[title="Ruff - fast Python linter"]
+:i_tomcat: image:{imgb}tomcat-F8DC75?logo=apachetomcat{badge_params_logcoldark}[title="Apache Tomcat"]
+:i_javascript: image:{imgb}javascript-F7DF1E?logo=javascript{badge_params_logcoldark}[title="JavaScript"]
+:i_linux: image:{imgb}linux-FCC624?logo=linux{badge_params_logcoldark}[title="linux"]
+
 :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params_nosize}[title="Nushell"]
 // :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params}[i_nushell,title="Nushell"]
 
@@ -120,7 +123,6 @@ a| https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuap
 
 :i_html: image:{imgb}html-E34F26?logo=html5{badge_params}[title="HTML5"]
 :i_css: image:{imgb}css-1572B6?logo=css3{badge_params}[title="CSS Cascading Style Sheets"]
-:i_javascript: image:{imgb}javascript-F7DF1E?logo=javascript{badge_params}[title="JavaScript"]
 :i_firefox: image:{imgb}firefox-000000?logo=firefoxbrowser{badge_params}[title="Firefox Browser"]
 :i_chromium: image:{imgb}chromium-4285F4?logo=googlechrome{badge_params}[title="Chromium based browsers"]
 // :i_vscodium: image:{imgb}vscodium-2F80ED?logo=vscodium{badge_params}[title="VSCodium - Open Source Binaries of VSCode"]
@@ -144,7 +146,6 @@ a| https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuap
 :i_miktex: image:{imgb}miktex-0057b7?logo=miktex{badge_params}[title="MiKTeX - TeX/LaTeX distribution for Windows"]
 
 
-:i_linux: image:{imgb}linux-FCC624?logo=linux{badge_params}[title="linux"]
 :i_nix: image:{imgb}nix-5277C3?logo=nixos{badge_params}[title="Nix Pkg Manager"]
 :i_bash: image:{imgb}bash-4EAA25?logo=gnubash{badge_params}[title="Bash"]
 :i_git: image:{imgb}git-F05032?logo=git{badge_params}[title="Git"]
