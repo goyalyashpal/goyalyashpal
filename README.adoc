@@ -208,7 +208,7 @@ https://pdm-project.org/latest/[{i_pdm}]
 | https://pypi.org/project/pdbplus/[{i_pdbp}] 
 //,
 https://www.mypy-lang.org/[{i_mypy}]
-https://docs.astral.sh/ruff/[{i_ruff}]
+// https://docs.astral.sh/ruff/[{i_ruff}]
 |{ght}jupyter[{i_jupyter}]
 |https://pytest.org[{i_pytest}]
 
