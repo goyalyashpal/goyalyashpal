@@ -214,7 +214,7 @@ https://eclipseide.org/[{i_eclipse}]
 
 
 
-=== Server-Side Programming:
+=== Server-Side Programming (Web):
 
 // [RFC 2616]: http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html "HTTP/1.1: Request"
 // [RFC 9110]: https://www.rfc-editor.org/rfc/rfc9110.html "RFC 9110: HTTP Semantics"
