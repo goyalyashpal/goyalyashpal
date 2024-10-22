@@ -20,22 +20,35 @@
 
 = 🌻🌺 Welcome to this profile 🪷🌹
 
-== Github Public Stats for this profile
+// == Github Public Stats for this profile
 
 :user-lang-info: https://github.com/orgs/community/discussions/18230
 
 * Upvote this {user-lang-info}[request to github] to see the language-wise distribution of commits 😃
 
-:trophy-params: &username=goyalyashpal&title=-Stars%2C-Reviews%2C-Followers%2C-Repositories%2C-PullRequest%2C-Commits&column=-1&margin-w=25&margin-h=25&theme=onedark
+:trophy-params: &username=goyalyashpal&title=-Stars%2C-Reviews%2C-Followers%2C-Repositories%2C-PullRequest%2C-Commits&column=-1&margin-w=12&margin-h=25&theme=onedark
 :profile-stat-params: &username=goyalyashpal&show_icons=true&locale=en&show=prs_merged%2Cdiscussions_started&hide=stars%2Cprs&hide_rank=true&cache_seconds=86400&theme=onedark
-:streak-stat-params: &user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=450px
+:streak-stat-params: &user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=450px&card_height=140
 
 // [.center.text-center]
-https://github.com/ryo-ma/github-profile-trophy[image:https://github-profile-trophy.vercel.app/?{trophy-params}[title="goyalyashpal"]]
-https://github-readme-stats.vercel.app[image:https://github-readme-stats.vercel.app/api?{profile-stat-params}[title="Profile's Github Contribution Stats",width=300]]
-https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuapp.com?{streak-stat-params}[title="Profile's GitHub Streak Stats",width=372]]
+// [cols="2*~",stripes=none]
+
+[cols="2*^~",stripes=none,frame=none,grid=none,halign=center]
+|===
+
+a| https://github.com/ryo-ma/github-profile-trophy[image:https://github-profile-trophy.vercel.app/?{trophy-params}[title="goyalyashpal"]] 
+// {nbsp}{nbsp}
+
+.2+a| https://github-readme-stats.vercel.app[image:https://github-readme-stats.vercel.app/api?{profile-stat-params}[title="Profile's Github Contribution Stats"]]
+
+// ,width=300]]
+
+a| https://git.io/streak-stats[image:https://github-readme-streak-stats.herokuapp.com?{streak-stat-params}[title="Profile's GitHub Streak Stats",width=330]]
+
+|===
 
 
+// card_width=450px, img width=372  for streak-stats in the beginning to match with readme-stats
 
 // * The width of the github profile readme is 780px
 // * ( 5 * 2 ) * 2 = 10px in margins
