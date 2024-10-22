@@ -91,7 +91,14 @@ image:{skic}vscodium,eclipse[]
 :imgb: https://img.shields.io/badge/
 :logobadge_param: ?style=for-the-badge&logoSize=auto&logoColor=FFF&logo=
 :badge_params: &style=for-the-badge&logoSize=auto&logoColor=FFF
+:badge_params_nosize: &style=for-the-badge&logoColor=FFF
+:badge_params_nologcol: &style=for-the-badge&logoSize=auto
 
+
+:i_ruff: image:{imgb}ruff-D7FF64?logo=ruff&logoColor=333{badge_params_nologcol}[title="Ruff - fast Python linter"]
+:i_tomcat: image:{imgb}tomcat-F8DC75?logo=apachetomcat&logoColor=333{badge_params_nologcol}[title="Apache Tomcat"]
+:i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params_nosize}[title="Nushell"]
+// :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params}[i_nushell,title="Nushell"]
 
 :i_streamlit: image:{imgb}streamlit-FF4B4B?logo=streamlit{badge_params}[title="Streamlit"]
 :i_julia: image:{imgb}julia-9558B2?logo=julia{badge_params}[title="Julia"]
@@ -110,7 +117,6 @@ image:{skic}vscodium,eclipse[]
 :i_pdm: image:{imgb}pdm-AC75D7?logo=pdm{badge_params}[title="PDM a modern Python package and dependency manager"]
 :i_nix: image:{imgb}nix-5277C3?logo=nixos{badge_params}[title="Nix Pkg Manager"]
 :i_mypy: image:{imgb}mypy-000?logo=mypy{badge_params}[title="mypy - Optional Static Typing for Python"]
-:i_ruff: image:{imgb}ruff-D7FF64?logo=ruff{badge_params}[title="Ruff - fast Python linter"]
 :i_jupyter: image:{imgb}jupyter-F37626?logo=jupyter{badge_params}[title="Jupyter REPL Notebooks"]
 :i_pytest: image:{imgb}pytest-0A9EDC?logo=pytest{badge_params}[title="Pytest Python testing framework"]
 
@@ -125,8 +131,7 @@ image:{skic}vscodium,eclipse[]
 :i_flask: image:{imgb}flask-F05032?logo=flask{badge_params}[title="Flask micro web framework"]
 :i_jinja: image:{imgb}jinja-B41717?logo=jinja{badge_params}[title="Jinja templating engine"]
 // :i_java: image:{imgb}java-000?logo=java{badge_params}[title="Java"]
-:i_jakarta-ee: image:{imgb}jakarta_ee-000?logo=jakarta-ee{badge_params}[title="Jakarta EE"]
-:i_tomcat: image:{imgb}tomcat-F8DC75?logo=apachetomcat{badge_params}[title="Apache Tomcat"]
+:i_jakarta-ee: image:{imgb}jakarta_ee-007396?logo=jakarta-ee{badge_params}[title="Jakarta EE"]
 :i_curl: image:{imgb}curl-073551?logo=curl{badge_params}[title="Curl"]
 
 
@@ -142,8 +147,6 @@ image:{skic}vscodium,eclipse[]
 :i_json: image:{imgb}json-000000?logo=json{badge_params}[title="JSON data interchange format"]
 :i_yaml: image:{imgb}yaml-CB171E?logo=yaml{badge_params}[title="YAML data serialization language"]
 :i_xml: image:{imgb}xml-005FAD?logo=xml{badge_params}[title="XML serialization language"]
-:i_nushell: image:{imgb}nushell-4E9A06?{badge_params}[title="Nushell"]
-// :i_nushell: image:{imgb}nushell-4E9A06?logo=nushell{badge_params}[i_nushell,title="Nushell"]
 
 :i_yq: image:{imgb}yq-000?{badge_params}[title="yq: jq inspired Processor for YAML & others"]
 :i_jq: image:{imgb}jq-000?logo=jq{badge_params}[title="jq JSON Processor"]
