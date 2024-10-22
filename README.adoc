@@ -34,7 +34,7 @@ profile & that too, just the public contributions.
 
 * Upvote this {user-lang-info}[request to github] to see the language-wise distribution of my commits 😃
 
-:trophy-params: &username=goyalyashpal&title=-Stars%2C-Reviews%2C-Followers&column=-1&margin-w=25&margin-h=25&theme=onedark
+:trophy-params: &username=goyalyashpal&title=-Stars%2C-Reviews%2C-Followers%2C-Repositories%2C-PullRequest%2C-Commits&column=-1&margin-w=25&margin-h=25&theme=onedark
 :profile-stat-params: &username=goyalyashpal&show_icons=true&locale=en&show=prs_merged%2Cdiscussions_started&hide=stars%2Cprs&hide_rank=true&cache_seconds=86400&theme=onedark
 :streak-stat-params: &user=goyalyashpal&theme=onedark&date_format=%5BY%20%5DM%20j&mode=weekly&hide_current_streak=false&card_width=450px
 
