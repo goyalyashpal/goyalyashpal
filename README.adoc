@@ -195,9 +195,9 @@ https://eclipseide.org/[{i_eclipse}]
 
 [width="100%",cols="~*5",options="header",]
 |===
-| |Build Spec 🏗 |Dev Tools 🛠 |Proto 🏃‍♀️ |Test ✔
+| |Build Spec 🏗 |Debug & Tools 🛠 |Others✔
 
-5+a|{ght}c[{i_c}]
+4+a|{ght}c[{i_c}]
 {ght}cpp[{i_cpp}]
 
 ||
@@ -209,9 +209,9 @@ https://www.gnu.org/software/make/[{i_gnu}]
 {ght}llvm[{i_llvm}]
 // https://vscodium.com/[{i_vscodium}]
 |https://rawcdn.githack.com/root-project/cling/master/www/index.html[Cling]
-| https://github.com/agrawal-d/cph[agrawal-cph] (for cp)
+, https://github.com/agrawal-d/cph[CPH] (for cp)
 
-5+a|{ght}python[{i_python}]
+4+a|{ght}python[{i_python}]
 
 ||
 // https://packaging.python.org/en/latest/specifications/pyproject-toml/[pyproject.toml] ,
@@ -222,9 +222,9 @@ https://pdm-project.org/latest/[{i_pdm}]
 https://www.mypy-lang.org/[{i_mypy}]
 // https://docs.astral.sh/ruff/[{i_ruff}]
 |{ght}jupyter[{i_jupyter}]
-|https://pytest.org[{i_pytest}]
+https://pytest.org[{i_pytest}]
 
-5+a|{ght}java[{i_java}]
+4+a|{ght}java[{i_java}]
 
 ||https://maven.apache.org/pom.html[{i_pom}] 
 //,
@@ -232,7 +232,7 @@ https://www.mypy-lang.org/[{i_mypy}]
 |{ght}adoptium[{i_adoptium}]
 // https://eclipseide.org/[{i_eclipse}]
 |https://docs.oracle.com/en/java/javase/21/jshell/introduction-jshell.html[JShell]
-|
+
 |===
 
 
