@@ -290,24 +290,31 @@ https://www.w3.org/XML/[{i_xml}]
 // ,
 https://jqlang.github.io/jq/[{i_jq}]
 https://www.nushell.sh/[{i_nushell}]
+|===
 
 
-3+|Markup
-| |{ght}latex[{i_latex}]
-https://typst.app/[{i_typst}]
+
+
+=== Others:
+
+[width="100%",cols="~*2",]
+|===
+
+2+|Markup
+| |https://typst.app/[{i_typst}]
+{ght}latex[{i_latex}]
 https://asciidoctor.org/[{i_asciidoctor}]
 {ght}markdown[{i_markdown}]
-|https://tug.org/texlive/[Tex Live] ,
-https://www.texstudio.org/[{i_texstudio}]
-https://miktex.org/[{i_miktex}]
+// |https://tug.org/texlive/[Tex Live] ,
+// https://www.texstudio.org/[{i_texstudio}]
+// https://miktex.org/[{i_miktex}]
 
-3+|DevOps
+2+|DevOps
 | |{ght}linux[{i_linux}]
 {ght}nix[{i_nix}]
 {ght}bash[{i_bash}]
 {ght}git[{i_git}]
 https://www.conventionalcommits.org/en/v1.0.0/[{i_conv_commits}]
-|https://pypi.org/project/bash_kernel/[Jupyter (IBash)] ,
-https://nix.dev/tutorials/nix-language.html#interactive-evaluation[nix
-eval]
+// |https://pypi.org/project/bash_kernel/[Jupyter (IBash)] ,
+// https://nix.dev/tutorials/nix-language.html#interactive-evaluation[nixeval]
 |===
