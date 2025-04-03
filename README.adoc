@@ -149,7 +149,7 @@ And Github: just _one_ of the _various_ source hosting / forging sites.
 :i_nix: image:{imgb}nix-5277C3?logo=nixos{badge_params}[title="Nix Pkg Manager"]
 :i_bash: image:{imgb}bash-4EAA25?logo=gnubash{badge_params}[title="Bash"]
 :i_git: image:{imgb}git-F05032?logo=git{badge_params}[title="Git"]
-:i_conv_commits: image:{imgb}conv_commits-FE5196?logo=conventionalcommits{badge_params}[title="Conventional Commits"]
+:i_conv_commits: image:{imgb}buildable_commits-FE5196?logo=conventionalcommits{badge_params}[title="Buildable Commits"]
 
 
 
