@@ -11,7 +11,7 @@
 
 // * Upvote this {user-lang-info}[request to github] to see the language-wise distribution of commits 😃
 
-**Goog's Android OS after year 2019 is effectively _more closed_ than even the MS' Win10 OS**
+https://keepandroidopen.org[**Goog's Android OS after year 2019 is effectively _more closed_ than even the MS' Win10 OS**]
 
 **Linux has _a long way_ to catch up to Unix** _- Laurie Wired, 2026-March_
 
