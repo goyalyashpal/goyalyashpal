@@ -20,6 +20,7 @@
 Every app and every device, worldwide, with no opt-out.
 ====
 
+---
 
 // **Goog's Android OS after year 2019 is effectively _more closed_ than even the MS' Win10 OS**
 
