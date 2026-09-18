@@ -15,7 +15,7 @@
 
 [IMPORTANT]
 ====
-**Your android phone is about to https://keepandroidopen.org[stop being yours], starting September 2026.**
+**Your android phone is about to https://keepandroidopen.org[stop being yours], starting 2027.**
 
 Every app and every device, worldwide, with no opt-out.
 ====
